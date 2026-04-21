@@ -1,0 +1,1827 @@
+[
+  {
+    "id": "study-001",
+    "type": "scientific_study",
+    "text": "Title: Technical ability of force application as a determinant factor of sprint performance. Authors: Jean-Benoît Morin (2011). Journal: Medicine & Science in Sports & Exercise. Key findings: Sprint performance relates strongly to how well force is oriented horizontally, not only to total force magnitude. The ratio of horizontal to total force helps explain why two athletes with similar outputs can accelerate differently.. Practical signal: Use force-orientation metrics and acceleration splits to explain early-speed strengths and weaknesses.. Themes: sprint-mechanics, force-orientation, acceleration.",
+    "metadata": {
+      "title": "Technical ability of force application as a determinant factor of sprint performance",
+      "year": 2011,
+      "evidence_tier": "high",
+      "themes": [
+        "sprint-mechanics",
+        "force-orientation",
+        "acceleration"
+      ],
+      "citation": "Jean-Benoît Morin (2011). Medicine & Science in Sports & Exercise. DOI: 10.1249/MSS.0b013e318216ea37"
+    }
+  },
+  {
+    "id": "study-002",
+    "type": "scientific_study",
+    "text": "Title: Sprint Acceleration Mechanics: The Major Role of Hamstrings in Horizontal Force Production. Authors: Jean-Benoît Morin (2015). Journal: Frontiers in Physiology. Key findings: Horizontal force production during acceleration is strongly influenced by posterior-chain function, especially hamstrings. Early sprint performance should not be reduced to generic leg strength alone.. Practical signal: Flag posterior-chain limitations when acceleration data are weak relative to general strength.. Themes: sprint-mechanics, hamstrings, acceleration.",
+    "metadata": {
+      "title": "Sprint Acceleration Mechanics: The Major Role of Hamstrings in Horizontal Force Production",
+      "year": 2015,
+      "evidence_tier": "high",
+      "themes": [
+        "sprint-mechanics",
+        "hamstrings",
+        "acceleration"
+      ],
+      "citation": "Jean-Benoît Morin (2015). Frontiers in Physiology. DOI: 10.3389/fphys.2015.00404"
+    }
+  },
+  {
+    "id": "study-003",
+    "type": "scientific_study",
+    "text": "Title: Sprint mechanical variables in elite athletes: Are force-velocity profiles sport specific or individual?. Authors: Thomas A Haugen (2019). Journal: PLOS One. Key findings: Sprint mechanical variables differ across sports, but individual variability remains substantial even among similarly performing athletes. Benchmarking should use both cohort archetypes and individual profiles rather than crude sport labels alone.. Practical signal: Support archetype-first benchmarking with uncertainty bands instead of one-size-fits-all sport norms.. Themes: benchmarks, force-velocity-profile, elite-data.",
+    "metadata": {
+      "title": "Sprint mechanical variables in elite athletes: Are force-velocity profiles sport specific or individual?",
+      "year": 2019,
+      "evidence_tier": "high",
+      "themes": [
+        "benchmarks",
+        "force-velocity-profile",
+        "elite-data"
+      ],
+      "citation": "Thomas A Haugen (2019). PLOS One. DOI: 10.1371/journal.pone.0215551"
+    }
+  },
+  {
+    "id": "study-004",
+    "type": "scientific_study",
+    "text": "Title: Force-velocity profiling of sprinting athletes: single-run vs. multiple-run methods. Authors: Christian Helland (2019). Journal: European Journal of Applied Physiology. Key findings: Single-run and multiple-run methods can both profile sprint mechanics when protocols are standardized. Methodological consistency matters if profiles are used for athlete comparison or longitudinal monitoring.. Practical signal: Store method metadata in the RAG so comparisons are only made across compatible tests.. Themes: force-velocity-profile, testing-validity, sprint-mechanics.",
+    "metadata": {
+      "title": "Force-velocity profiling of sprinting athletes: single-run vs. multiple-run methods",
+      "year": 2019,
+      "evidence_tier": "high",
+      "themes": [
+        "force-velocity-profile",
+        "testing-validity",
+        "sprint-mechanics"
+      ],
+      "citation": "Christian Helland (2019). European Journal of Applied Physiology. DOI: 10.1007/s00421-018-4045-2"
+    }
+  },
+  {
+    "id": "study-005",
+    "type": "scientific_study",
+    "text": "Title: Delineating the potential of the vertical and horizontal force-velocity profile for optimizing sport performance: A systematic review. Authors: Andrés Baena-Raya (2022). Journal: Journal of Sports Sciences. Key findings: Vertical and horizontal force-velocity profiles can meaningfully guide performance diagnosis when the task matches the sport demand. Profiling becomes much less useful when it is detached from the athlete's event constraints.. Practical signal: Tie each athlete recommendation to a task-specific profile instead of generic power labels.. Themes: force-velocity-profile, training-prescription, benchmarking.",
+    "metadata": {
+      "title": "Delineating the potential of the vertical and horizontal force-velocity profile for optimizing sport performance: A systematic review",
+      "year": 2022,
+      "evidence_tier": "high",
+      "themes": [
+        "force-velocity-profile",
+        "training-prescription",
+        "benchmarking"
+      ],
+      "citation": "Andrés Baena-Raya (2022). Journal of Sports Sciences. DOI: 10.1080/02640414.2021.1993641"
+    }
+  },
+  {
+    "id": "study-006",
+    "type": "scientific_study",
+    "text": "Title: Optimal mechanical force-velocity profile for sprint acceleration performance. Authors: Pierre Samozino (2022). Journal: Scandinavian Journal of Medicine & Science in Sports. Key findings: Acceleration performance may depend on how close an athlete is to an optimal balance between force and velocity capacities. Training should target the profile deficit rather than chase every quality equally.. Practical signal: Use bottleneck-aware training logic instead of broad 'get more explosive' outputs.. Themes: force-velocity-profile, optimization, acceleration.",
+    "metadata": {
+      "title": "Optimal mechanical force-velocity profile for sprint acceleration performance",
+      "year": 2022,
+      "evidence_tier": "high",
+      "themes": [
+        "force-velocity-profile",
+        "optimization",
+        "acceleration"
+      ],
+      "citation": "Pierre Samozino (2022). Scandinavian Journal of Medicine & Science in Sports. DOI: 10.1111/sms.14097"
+    }
+  },
+  {
+    "id": "study-007",
+    "type": "scientific_study",
+    "text": "Title: The Effect of Resisted Sprint Training on Force-Velocity Profile Change: A Systematic Review and Meta-Analysis. Authors: Arjan Dougan (2025). Journal: Journal of Strength and Conditioning Research. Key findings: Resisted sprint interventions can shift the sprint force-velocity profile and especially target acceleration-oriented deficits. Load selection should be profile-specific rather than tradition-driven.. Practical signal: Recommend resisted sprint work mainly when acceleration and force-orientation are the present bottlenecks.. Themes: resisted-sprint, acceleration, training-prescription.",
+    "metadata": {
+      "title": "The Effect of Resisted Sprint Training on Force-Velocity Profile Change: A Systematic Review and Meta-Analysis",
+      "year": 2025,
+      "evidence_tier": "high",
+      "themes": [
+        "resisted-sprint",
+        "acceleration",
+        "training-prescription"
+      ],
+      "citation": "Arjan Dougan (2025). Journal of Strength and Conditioning Research. DOI: 10.1519/JSC.0000000000005205"
+    }
+  },
+  {
+    "id": "study-008",
+    "type": "scientific_study",
+    "text": "Title: The Effect of Resisted Sprint Training on Acceleration: A Systematic Review and Meta-Analysis. Authors: Elizabeth K Aldrich (2024). Journal: Strength and Conditioning Journal / review record. Key findings: Resisted sprint training improves acceleration, with load and context altering magnitude of effect. It is more justifiable for acceleration-limited athletes than for already top-speed-dominant profiles.. Practical signal: Use acceleration deficits plus sport demand to decide whether resisted sprinting is central or secondary.. Themes: resisted-sprint, acceleration, training-prescription.",
+    "metadata": {
+      "title": "The Effect of Resisted Sprint Training on Acceleration: A Systematic Review and Meta-Analysis",
+      "year": 2024,
+      "evidence_tier": "moderate",
+      "themes": [
+        "resisted-sprint",
+        "acceleration",
+        "training-prescription"
+      ],
+      "citation": "Elizabeth K Aldrich (2024). Strength and Conditioning Journal / review record. DOI: 10.70252/VKAV1115"
+    }
+  },
+  {
+    "id": "study-009",
+    "type": "scientific_study",
+    "text": "Title: A simple method for computing sprint acceleration kinetics from running velocity data: Replication study with improved design. Authors: Jean-Benoit Morin (2019). Journal: Journal of Biomechanics. Key findings: Velocity-based estimation methods can derive meaningful sprint kinetics with practical field value. This supports lower-friction athlete testing stacks when lab force plates are unavailable.. Practical signal: Allow field-testing integrations but keep the system explicit about direct measure versus modeled estimate.. Themes: testing-validity, force-velocity-profile, sprint-mechanics.",
+    "metadata": {
+      "title": "A simple method for computing sprint acceleration kinetics from running velocity data: Replication study with improved design",
+      "year": 2019,
+      "evidence_tier": "high",
+      "themes": [
+        "testing-validity",
+        "force-velocity-profile",
+        "sprint-mechanics"
+      ],
+      "citation": "Jean-Benoit Morin (2019). Journal of Biomechanics. DOI: 10.1016/j.jbiomech.2019.07.020"
+    }
+  },
+  {
+    "id": "study-010",
+    "type": "scientific_study",
+    "text": "Title: Concurrent Validity and Reliability of Sprinting Force-Velocity Profile Assessed With GPS Devices in Elite Athletes. Authors: Pauline Clavel (2022). Journal: International Journal of Sports Physiology and Performance. Key findings: GPS-derived sprint force-velocity profiling can be practically useful in elite settings when device and protocol quality are controlled. This supports scalable field monitoring rather than lab-only workflows.. Practical signal: Store device provenance and reliability class in every uploaded test record.. Themes: testing-validity, wearables, force-velocity-profile.",
+    "metadata": {
+      "title": "Concurrent Validity and Reliability of Sprinting Force-Velocity Profile Assessed With GPS Devices in Elite Athletes",
+      "year": 2022,
+      "evidence_tier": "high",
+      "themes": [
+        "testing-validity",
+        "wearables",
+        "force-velocity-profile"
+      ],
+      "citation": "Pauline Clavel (2022). International Journal of Sports Physiology and Performance. DOI: 10.1123/ijspp.2021-0339"
+    }
+  },
+  {
+    "id": "study-011",
+    "type": "scientific_study",
+    "text": "Title: Concurrent Validity and Reliability of the Sprint Force-Velocity Profile Assessed with K-AI Wearable Tech. Authors: Laurine Vantieghem-Nicolas (2023). Journal: Sensors. Key findings: Wearable-based sprint profiling can reach useful reliability for applied monitoring. Field testing is practical, but downstream recommendations should still respect device limitations.. Practical signal: Permit wearable ingestion, but score confidence by validation status of the hardware source.. Themes: testing-validity, wearables, force-velocity-profile.",
+    "metadata": {
+      "title": "Concurrent Validity and Reliability of the Sprint Force-Velocity Profile Assessed with K-AI Wearable Tech",
+      "year": 2023,
+      "evidence_tier": "moderate",
+      "themes": [
+        "testing-validity",
+        "wearables",
+        "force-velocity-profile"
+      ],
+      "citation": "Laurine Vantieghem-Nicolas (2023). Sensors. DOI: 10.3390/s23198189"
+    }
+  },
+  {
+    "id": "study-012",
+    "type": "scientific_study",
+    "text": "Title: The importance of duration and magnitude of force application to sprint performance during the initial acceleration, transition and maximal velocity phases. Authors: Hans C von Lieres Und Wilkau (2020). Journal: Journal of Sports Sciences. Key findings: Different sprint phases depend on different combinations of force magnitude, impulse timing, and braking behavior. An athlete can be strong in one phase and weak in another, which matters for detailed diagnosis.. Practical signal: Explain why an athlete is 'fast early but not late' or vice versa using phase-specific evidence.. Themes: sprint-mechanics, phase-analysis, acceleration.",
+    "metadata": {
+      "title": "The importance of duration and magnitude of force application to sprint performance during the initial acceleration, transition and maximal velocity phases",
+      "year": 2020,
+      "evidence_tier": "high",
+      "themes": [
+        "sprint-mechanics",
+        "phase-analysis",
+        "acceleration"
+      ],
+      "citation": "Hans C von Lieres Und Wilkau (2020). Journal of Sports Sciences. DOI: 10.1080/02640414.2020.1785193"
+    }
+  },
+  {
+    "id": "study-013",
+    "type": "scientific_study",
+    "text": "Title: Relationships between kinematic characteristics and ratio of forces during initial sprint acceleration. Authors: Daniel King (2023). Journal: Journal of Sports Sciences / biomechanics stream. Key findings: Specific acceleration kinematics relate to the ratio of horizontal force during early steps. Visible technique cues can help interpret sprint metrics, but not replace direct kinetic measurement.. Practical signal: Use video or photo-derived posture cues as secondary evidence, never as a direct tissue diagnosis.. Themes: sprint-mechanics, kinematics, force-orientation.",
+    "metadata": {
+      "title": "Relationships between kinematic characteristics and ratio of forces during initial sprint acceleration",
+      "year": 2023,
+      "evidence_tier": "moderate",
+      "themes": [
+        "sprint-mechanics",
+        "kinematics",
+        "force-orientation"
+      ],
+      "citation": "Daniel King (2023). Journal of Sports Sciences / biomechanics stream. DOI: 10.1080/02640414.2023.2164062"
+    }
+  },
+  {
+    "id": "study-014",
+    "type": "scientific_study",
+    "text": "Title: Reactive Strength Index and its Associations with Measures of Physical and Sports Performance: A Systematic Review with Meta-Analysis. Authors: Paul Jarvis (2022). Journal: Sports Medicine. Key findings: RSI is meaningfully associated with speed, change-of-direction, and other high-performance outputs when tested well. RSI is a useful proxy for elastic/reactive ability, but it is still not a direct tendon or fascia measure.. Practical signal: Use RSI as an elastic/reactive proxy with confidence labels, not as proof of tendon architecture.. Themes: reactive-strength-index, plyometrics, elasticity.",
+    "metadata": {
+      "title": "Reactive Strength Index and its Associations with Measures of Physical and Sports Performance: A Systematic Review with Meta-Analysis",
+      "year": 2022,
+      "evidence_tier": "high",
+      "themes": [
+        "reactive-strength-index",
+        "plyometrics",
+        "elasticity"
+      ],
+      "citation": "Paul Jarvis (2022). Sports Medicine. DOI: 10.1007/s40279-021-01566-y"
+    }
+  },
+  {
+    "id": "study-015",
+    "type": "scientific_study",
+    "text": "Title: How to Improve the Reactive Strength Index among Male Athletes? A Systematic Review with Meta-Analysis. Authors: André Rebelo (2022). Journal: Healthcare. Key findings: RSI can be improved through targeted jump and plyometric programming. Programming choices should account for athlete level and tissue tolerance.. Practical signal: When reactive ability is low, recommend progressive plyometric exposure rather than generic explosive work.. Themes: reactive-strength-index, plyometrics, training-prescription.",
+    "metadata": {
+      "title": "How to Improve the Reactive Strength Index among Male Athletes? A Systematic Review with Meta-Analysis",
+      "year": 2022,
+      "evidence_tier": "moderate",
+      "themes": [
+        "reactive-strength-index",
+        "plyometrics",
+        "training-prescription"
+      ],
+      "citation": "André Rebelo (2022). Healthcare. DOI: 10.3390/healthcare10040593"
+    }
+  },
+  {
+    "id": "study-016",
+    "type": "scientific_study",
+    "text": "Title: Effects of Plyometric Jump Training on the Reactive Strength Index in Healthy Individuals Across the Lifespan: A Systematic Review with Meta-analysis. Authors: Rodrigo Ramirez-Campillo (2023). Journal: Sports Medicine. Key findings: Plyometric jump training improves RSI across age groups when exposure is progressed appropriately. This supports a structured elastic-development module inside performance planning.. Practical signal: Let the plan generator scale contact density and intensity based on tissue tolerance and experience.. Themes: plyometrics, reactive-strength-index, training-prescription.",
+    "metadata": {
+      "title": "Effects of Plyometric Jump Training on the Reactive Strength Index in Healthy Individuals Across the Lifespan: A Systematic Review with Meta-analysis",
+      "year": 2023,
+      "evidence_tier": "high",
+      "themes": [
+        "plyometrics",
+        "reactive-strength-index",
+        "training-prescription"
+      ],
+      "citation": "Rodrigo Ramirez-Campillo (2023). Sports Medicine. DOI: 10.1007/s40279-023-01825-0"
+    }
+  },
+  {
+    "id": "study-017",
+    "type": "scientific_study",
+    "text": "Title: Sprint performance is related to muscle fascicle length in male 100-m sprinters. Authors: K Kumagai (2000). Journal: Journal of Applied Physiology. Key findings: Longer muscle fascicles are associated with better sprint performance in male sprinters. Architecture contributes to ceiling and style of performance, not just current conditioning.. Practical signal: Treat fiber/fascicle discussions as probability-weighted architecture hypotheses unless imaging exists.. Themes: muscle-architecture, fascicle-length, sprint-performance.",
+    "metadata": {
+      "title": "Sprint performance is related to muscle fascicle length in male 100-m sprinters",
+      "year": 2000,
+      "evidence_tier": "moderate",
+      "themes": [
+        "muscle-architecture",
+        "fascicle-length",
+        "sprint-performance"
+      ],
+      "citation": "K Kumagai (2000). Journal of Applied Physiology. DOI: 10.1152/jappl.2000.88.3.811"
+    }
+  },
+  {
+    "id": "study-018",
+    "type": "scientific_study",
+    "text": "Title: Relationship between sprint performance and muscle fascicle length in female sprinters. Authors: T Abe (2001). Journal: Journal of Physiological Anthropology and Applied Human Science. Key findings: Longer fascicles are also associated with sprint performance in female sprinters. Percent body fat showed a meaningful relationship with sprint record in this population.. Practical signal: Support sex-aware morphology analysis while avoiding crude visual overreach.. Themes: muscle-architecture, fascicle-length, sprint-performance.",
+    "metadata": {
+      "title": "Relationship between sprint performance and muscle fascicle length in female sprinters",
+      "year": 2001,
+      "evidence_tier": "moderate",
+      "themes": [
+        "muscle-architecture",
+        "fascicle-length",
+        "sprint-performance"
+      ],
+      "citation": "T Abe (2001). Journal of Physiological Anthropology and Applied Human Science. DOI: 10.2114/jpa.20.141"
+    }
+  },
+  {
+    "id": "study-019",
+    "type": "scientific_study",
+    "text": "Title: The Muscle Morphology of Elite Sprint Running. Authors: Robert Miller (2021). Journal: Medicine & Science in Sports & Exercise. Key findings: Elite sprint performance is associated with distinct muscular morphology patterns rather than generic hypertrophy alone. Regional muscle structure matters for high-speed running qualities.. Practical signal: Use morphology to contextualize probable advantages and limits, then separate structural versus trainable factors in the report.. Themes: muscle-architecture, elite-sprinters, morphology.",
+    "metadata": {
+      "title": "The Muscle Morphology of Elite Sprint Running",
+      "year": 2021,
+      "evidence_tier": "high",
+      "themes": [
+        "muscle-architecture",
+        "elite-sprinters",
+        "morphology"
+      ],
+      "citation": "Robert Miller (2021). Medicine & Science in Sports & Exercise. DOI: 10.1249/MSS.0000000000002522"
+    }
+  },
+  {
+    "id": "study-020",
+    "type": "scientific_study",
+    "text": "Title: Anthropometric, strength, and power predictors of sprinting performance. Authors: M Kukolj (1999). Journal: Journal of Sports Medicine and Physical Fitness. Key findings: Generic anthropometric and strength tests were weak predictors of sprint performance compared with more sprint-specific testing. This is an important warning against overselling body measurements in isolation.. Practical signal: Do not let the RAG claim performance potential from anthropometry alone without sprint-specific evidence.. Themes: anthropometry, sprint-performance, testing.",
+    "metadata": {
+      "title": "Anthropometric, strength, and power predictors of sprinting performance",
+      "year": 1999,
+      "evidence_tier": "moderate",
+      "themes": [
+        "anthropometry",
+        "sprint-performance",
+        "testing"
+      ],
+      "citation": "M Kukolj (1999). Journal of Sports Medicine and Physical Fitness. DOI: PMID:10399419"
+    }
+  },
+  {
+    "id": "study-021",
+    "type": "scientific_study",
+    "text": "Title: Effects of Increased Loading on In Vivo Tendon Properties: A Systematic Review. Authors: Karin Rosager (2015). Journal: Sports Medicine. Key findings: Tendons adapt to loading, but adaptation magnitude and time course vary markedly between protocols and individuals. This supports treating tendon capacity as trainable but slower and less linear than pure neuromuscular output.. Practical signal: Build tendon-loading progressions conservatively and with symptom-guided checkpoints.. Themes: tendon-adaptation, loading, connective-tissue.",
+    "metadata": {
+      "title": "Effects of Increased Loading on In Vivo Tendon Properties: A Systematic Review",
+      "year": 2015,
+      "evidence_tier": "high",
+      "themes": [
+        "tendon-adaptation",
+        "loading",
+        "connective-tissue"
+      ],
+      "citation": "Karin Rosager (2015). Sports Medicine. DOI: 10.1007/s40279-014-0286-9"
+    }
+  },
+  {
+    "id": "study-022",
+    "type": "scientific_study",
+    "text": "Title: In vivo Achilles tendon loading during jumping in humans. Authors: Paavo V Komi (1995). Journal: European Journal of Applied Physiology. Key findings: Achilles tendon stores and returns meaningful elastic energy during jumping and hopping tasks. Elastic behavior is task dependent and linked to performance context.. Practical signal: Justify why reactive and hopping tasks matter in elastic athlete development.. Themes: tendon-loading, jumping, elasticity.",
+    "metadata": {
+      "title": "In vivo Achilles tendon loading during jumping in humans",
+      "year": 1995,
+      "evidence_tier": "moderate",
+      "themes": [
+        "tendon-loading",
+        "jumping",
+        "elasticity"
+      ],
+      "citation": "Paavo V Komi (1995). European Journal of Applied Physiology. DOI: 10.1007/BF00635880"
+    }
+  },
+  {
+    "id": "study-023",
+    "type": "scientific_study",
+    "text": "Title: Correlations Between Achilles Tendon Stiffness and Jumping Performance: A Comparative Study of Soccer and Basketball Athletes. Authors: Daniel Schmidt (2025). Journal: Journal of Functional Morphology and Kinesiology. Key findings: Achilles tendon stiffness shows sport-specific patterns and may relate to jumping performance. Tendon metrics can add value, but correlations are not uniform across sports.. Practical signal: When no direct tendon measure exists, phrase tissue conclusions as hypothesis-level only.. Themes: tendon-stiffness, jump-performance, elasticity.",
+    "metadata": {
+      "title": "Correlations Between Achilles Tendon Stiffness and Jumping Performance: A Comparative Study of Soccer and Basketball Athletes",
+      "year": 2025,
+      "evidence_tier": "moderate",
+      "themes": [
+        "tendon-stiffness",
+        "jump-performance",
+        "elasticity"
+      ],
+      "citation": "Daniel Schmidt (2025). Journal of Functional Morphology and Kinesiology. DOI: 10.3390/jfmk10020112"
+    }
+  },
+  {
+    "id": "study-024",
+    "type": "scientific_study",
+    "text": "Title: Effects of midsole cushioning stiffness on Achilles tendon stretch during running. Authors: Michael Esposito (2022). Journal: Scientific Reports. Key findings: External equipment choices can change Achilles tendon stretch and loading characteristics. The performance and recovery system should not ignore footwear context.. Practical signal: Include footwear and surface context in tendon-sensitive training and recovery recommendations.. Themes: tendon-loading, footwear, running-mechanics.",
+    "metadata": {
+      "title": "Effects of midsole cushioning stiffness on Achilles tendon stretch during running",
+      "year": 2022,
+      "evidence_tier": "moderate",
+      "themes": [
+        "tendon-loading",
+        "footwear",
+        "running-mechanics"
+      ],
+      "citation": "Michael Esposito (2022). Scientific Reports. DOI: 10.1038/s41598-022-07719-x"
+    }
+  },
+  {
+    "id": "study-025",
+    "type": "scientific_study",
+    "text": "Title: International Society of Sports Nutrition Position Stand: protein and exercise. Authors: Ralf Jäger (2017). Journal: Journal of the International Society of Sports Nutrition. Key findings: Daily protein intake around 1.4 to 2.0 g/kg/day is sufficient for many exercising individuals, with higher intakes useful in some energy-restricted contexts. Protein timing and distribution matter less than total adequacy, but still support adaptation.. Practical signal: Anchor nutrition outputs in evidence-based protein ranges rather than arbitrary bodybuilding heuristics.. Themes: nutrition, protein, muscle-adaptation.",
+    "metadata": {
+      "title": "International Society of Sports Nutrition Position Stand: protein and exercise",
+      "year": 2017,
+      "evidence_tier": "high",
+      "themes": [
+        "nutrition",
+        "protein",
+        "muscle-adaptation"
+      ],
+      "citation": "Ralf Jäger (2017). Journal of the International Society of Sports Nutrition. DOI: 10.1186/s12970-017-0177-8"
+    }
+  },
+  {
+    "id": "study-026",
+    "type": "scientific_study",
+    "text": "Title: Essential Amino Acids and Protein Synthesis: Insights into Maximizing the Muscle and Whole-Body Response to Feeding. Authors: David D Church (2020). Journal: Nutrients. Key findings: Essential amino acid composition is central to maximizing muscle protein synthesis response. This helps explain why isolated BCAA logic is weaker than complete high-quality protein or EAA strategies.. Practical signal: Prioritize total high-quality protein and EAA adequacy over simplistic supplement marketing claims.. Themes: nutrition, amino-acids, muscle-protein-synthesis.",
+    "metadata": {
+      "title": "Essential Amino Acids and Protein Synthesis: Insights into Maximizing the Muscle and Whole-Body Response to Feeding",
+      "year": 2020,
+      "evidence_tier": "high",
+      "themes": [
+        "nutrition",
+        "amino-acids",
+        "muscle-protein-synthesis"
+      ],
+      "citation": "David D Church (2020). Nutrients. DOI: 10.3390/nu12123717"
+    }
+  },
+  {
+    "id": "study-027",
+    "type": "scientific_study",
+    "text": "Title: International Society of Sports Nutrition position stand: safety and efficacy of creatine supplementation in exercise, sport, and medicine. Authors: Richard B Kreider (2017). Journal: Journal of the International Society of Sports Nutrition. Key findings: Creatine is among the most supported ergogenic aids for high-intensity performance and training adaptation. There is also evidence for possible roles in recovery and rehabilitation contexts.. Practical signal: Creatine can be a high-confidence option when recovery, medical history, and governing-body considerations are checked.. Themes: nutrition, supplement, creatine.",
+    "metadata": {
+      "title": "International Society of Sports Nutrition position stand: safety and efficacy of creatine supplementation in exercise, sport, and medicine",
+      "year": 2017,
+      "evidence_tier": "high",
+      "themes": [
+        "nutrition",
+        "supplement",
+        "creatine"
+      ],
+      "citation": "Richard B Kreider (2017). Journal of the International Society of Sports Nutrition. DOI: 10.1186/s12970-017-0173-z"
+    }
+  },
+  {
+    "id": "study-028",
+    "type": "scientific_study",
+    "text": "Title: International Society of Sports Nutrition position stand: creatine supplementation and exercise. Authors: Thomas W Buford (2007). Journal: Journal of the International Society of Sports Nutrition. Key findings: Earlier ISSN synthesis already established creatine as a leading evidence-based ergogenic aid. This provides historical continuity for the creatine literature base.. Practical signal: Use later creatine consensus as primary evidence and this as background support.. Themes: nutrition, supplement, creatine.",
+    "metadata": {
+      "title": "International Society of Sports Nutrition position stand: creatine supplementation and exercise",
+      "year": 2007,
+      "evidence_tier": "moderate",
+      "themes": [
+        "nutrition",
+        "supplement",
+        "creatine"
+      ],
+      "citation": "Thomas W Buford (2007). Journal of the International Society of Sports Nutrition. DOI: 10.1186/1550-2783-4-6"
+    }
+  },
+  {
+    "id": "study-029",
+    "type": "scientific_study",
+    "text": "Title: International Society of Sports Nutrition position stand: sodium bicarbonate and exercise performance. Authors: Jozo Grgic (2021). Journal: Journal of the International Society of Sports Nutrition. Key findings: Sodium bicarbonate can help selected high-intensity efforts, but tolerance and GI side effects are major practical issues. This is not a universal default supplement and should be tested cautiously.. Practical signal: Keep bicarbonate in an optional evidence-based supplement tier rather than a default recommendation.. Themes: nutrition, supplement, buffering.",
+    "metadata": {
+      "title": "International Society of Sports Nutrition position stand: sodium bicarbonate and exercise performance",
+      "year": 2021,
+      "evidence_tier": "high",
+      "themes": [
+        "nutrition",
+        "supplement",
+        "buffering"
+      ],
+      "citation": "Jozo Grgic (2021). Journal of the International Society of Sports Nutrition. DOI: 10.1186/s12970-021-00458-w"
+    }
+  },
+  {
+    "id": "study-030",
+    "type": "scientific_study",
+    "text": "Title: Effects of Acute Caffeine Ingestion on Repeated Sprint Ability: A Systematic Review and Meta-Analysis. Authors: Yunteng Wang (2025). Journal: Nutrients. Key findings: Acute caffeine ingestion can improve repeated sprint ability, especially at higher doses, though effects vary by modality and tolerance. Evidence is stronger for some repeated high-intensity tasks than for every sprint scenario.. Practical signal: Allow caffeine recommendations only with personalization around sleep, tolerance, and competition timing.. Themes: nutrition, supplement, caffeine, repeated-sprint.",
+    "metadata": {
+      "title": "Effects of Acute Caffeine Ingestion on Repeated Sprint Ability: A Systematic Review and Meta-Analysis",
+      "year": 2025,
+      "evidence_tier": "moderate",
+      "themes": [
+        "nutrition",
+        "supplement",
+        "caffeine",
+        "repeated-sprint"
+      ],
+      "citation": "Yunteng Wang (2025). Nutrients. DOI: 10.3390/nu17213475"
+    }
+  },
+  {
+    "id": "study-031",
+    "type": "scientific_study",
+    "text": "Title: Isolated ingestion of caffeine and sodium bicarbonate on repeated sprint performance: A systematic review and meta-analysis. Authors: João P Lopes-Silva (2019). Journal: Journal of Science and Medicine in Sport. Key findings: Older pooled evidence found no clear repeated-sprint benefit from isolated caffeine or bicarbonate under those included protocols. This is useful contradictory evidence against overconfident supplement claims.. Practical signal: Surface conflicting supplement evidence inside the RAG instead of hiding it.. Themes: nutrition, supplement, caffeine, buffering.",
+    "metadata": {
+      "title": "Isolated ingestion of caffeine and sodium bicarbonate on repeated sprint performance: A systematic review and meta-analysis",
+      "year": 2019,
+      "evidence_tier": "moderate",
+      "themes": [
+        "nutrition",
+        "supplement",
+        "caffeine",
+        "buffering"
+      ],
+      "citation": "João P Lopes-Silva (2019). Journal of Science and Medicine in Sport. DOI: 10.1016/j.jsams.2019.03.007"
+    }
+  },
+  {
+    "id": "study-032",
+    "type": "scientific_study",
+    "text": "Title: The Impact of Sleep Interventions on Athletic Performance: A Systematic Review. Authors: Lúcio A Cunha (2023). Journal: Sports Medicine Open. Key findings: Sleep extension and napping show the clearest positive impact on performance and recovery outcomes. Sleep hygiene alone appears less consistently effective.. Practical signal: Weight sleep quantity and schedule management heavily in recovery recommendations.. Themes: sleep, recovery, performance.",
+    "metadata": {
+      "title": "The Impact of Sleep Interventions on Athletic Performance: A Systematic Review",
+      "year": 2023,
+      "evidence_tier": "high",
+      "themes": [
+        "sleep",
+        "recovery",
+        "performance"
+      ],
+      "citation": "Lúcio A Cunha (2023). Sports Medicine Open. DOI: 10.1186/s40798-023-00599-z"
+    }
+  },
+  {
+    "id": "study-033",
+    "type": "scientific_study",
+    "text": "Title: IOC consensus statement on relative energy deficiency in sport (RED-S): 2018 update. Authors: Margo Mountjoy (2018). Journal: British Journal of Sports Medicine. Key findings: Low energy availability affects health and performance across multiple systems and should matter to athlete monitoring. RED-S is a multidisciplinary risk-management issue, not just a body-fat discussion.. Practical signal: Trigger red-flag suppression of aggressive body-composition advice when RED-S signals appear.. Themes: red-s, energy-availability, risk-management.",
+    "metadata": {
+      "title": "IOC consensus statement on relative energy deficiency in sport (RED-S): 2018 update",
+      "year": 2018,
+      "evidence_tier": "high",
+      "themes": [
+        "red-s",
+        "energy-availability",
+        "risk-management"
+      ],
+      "citation": "Margo Mountjoy (2018). British Journal of Sports Medicine. DOI: 10.1136/bjsports-2018-099193"
+    }
+  },
+  {
+    "id": "study-034",
+    "type": "scientific_study",
+    "text": "Title: Low Energy Availability and Relative Energy Deficiency in Sport: A Systematic Review and Meta-analysis. Authors: Tara L Gallant (2025). Journal: Sports Medicine. Key findings: Low energy availability and RED-S are prevalent enough to warrant routine screening in athlete-support systems. Performance and injury risk consequences justify caution before prescribing aggressive cutting strategies.. Practical signal: Keep RED-S detection conservative but operational in the platform.. Themes: red-s, energy-availability, injury-risk.",
+    "metadata": {
+      "title": "Low Energy Availability and Relative Energy Deficiency in Sport: A Systematic Review and Meta-analysis",
+      "year": 2025,
+      "evidence_tier": "high",
+      "themes": [
+        "red-s",
+        "energy-availability",
+        "injury-risk"
+      ],
+      "citation": "Tara L Gallant (2025). Sports Medicine. DOI: 10.1007/s40279-024-02130-0"
+    }
+  },
+  {
+    "id": "study-035",
+    "type": "scientific_study",
+    "text": "Title: Markers of Low Energy Availability in Overreached Athletes: A Systematic Review and Meta-analysis. Authors: Megan A Kuikman (2022). Journal: Sports Medicine. Key findings: Low energy availability markers and underperformance frequently overlap in overloaded athletes. Recovery interpretation should not isolate training stress from fueling status.. Practical signal: When recovery collapses, the model should consider both load and fueling, not load alone.. Themes: red-s, recovery, overreaching.",
+    "metadata": {
+      "title": "Markers of Low Energy Availability in Overreached Athletes: A Systematic Review and Meta-analysis",
+      "year": 2022,
+      "evidence_tier": "high",
+      "themes": [
+        "red-s",
+        "recovery",
+        "overreaching"
+      ],
+      "citation": "Megan A Kuikman (2022). Sports Medicine. DOI: 10.1007/s40279-022-01723-x"
+    }
+  },
+  {
+    "id": "study-036",
+    "type": "scientific_study",
+    "text": "Title: Return to Play After Hamstring Injuries: A Qualitative Systematic Review of Definitions and Criteria. Authors: Nick van der Horst (2016). Journal: Sports Medicine. Key findings: Hamstring return-to-play definitions and criteria vary widely and lack strong validation. This argues against timeline-only recovery outputs.. Practical signal: Design recovery outputs around criteria and uncertainty, not fixed calendar promises.. Themes: return-to-play, hamstring, recovery.",
+    "metadata": {
+      "title": "Return to Play After Hamstring Injuries: A Qualitative Systematic Review of Definitions and Criteria",
+      "year": 2016,
+      "evidence_tier": "high",
+      "themes": [
+        "return-to-play",
+        "hamstring",
+        "recovery"
+      ],
+      "citation": "Nick van der Horst (2016). Sports Medicine. DOI: 10.1007/s40279-015-0468-7"
+    }
+  },
+  {
+    "id": "study-037",
+    "type": "scientific_study",
+    "text": "Title: Criteria for Progressing Rehabilitation and Determining Return-to-Play Clearance Following Hamstring Strain Injury: A Systematic Review. Authors: Jack T Hickey (2017). Journal: Sports Medicine. Key findings: Rehabilitation progression and clearance criteria after hamstring injury are variable and incompletely validated. Pain, strength, flexibility, and function all matter, but none is sufficient alone.. Practical signal: Use multi-criterion hamstring comeback logic with symptom monitoring and performance re-testing.. Themes: return-to-play, hamstring, rehabilitation.",
+    "metadata": {
+      "title": "Criteria for Progressing Rehabilitation and Determining Return-to-Play Clearance Following Hamstring Strain Injury: A Systematic Review",
+      "year": 2017,
+      "evidence_tier": "high",
+      "themes": [
+        "return-to-play",
+        "hamstring",
+        "rehabilitation"
+      ],
+      "citation": "Jack T Hickey (2017). Sports Medicine. DOI: 10.1007/s40279-016-0667-x"
+    }
+  },
+  {
+    "id": "study-038",
+    "type": "scientific_study",
+    "text": "Title: Evidence-Based Management and Factors Associated With Return to Play After Acute Hamstring Injury in Athletes: A Systematic Review. Authors: Samuel S Rudisill (2021). Journal: Orthopaedic Journal of Sports Medicine. Key findings: Evidence-based hamstring management should integrate injury severity, progress markers, and sport demands. Reinjury risk remains meaningful after return.. Practical signal: Keep recurrent hamstring risk visible in comeback planning and microcycle design.. Themes: return-to-play, hamstring, risk-management.",
+    "metadata": {
+      "title": "Evidence-Based Management and Factors Associated With Return to Play After Acute Hamstring Injury in Athletes: A Systematic Review",
+      "year": 2021,
+      "evidence_tier": "moderate",
+      "themes": [
+        "return-to-play",
+        "hamstring",
+        "risk-management"
+      ],
+      "citation": "Samuel S Rudisill (2021). Orthopaedic Journal of Sports Medicine. DOI: 10.1177/23259671211053833"
+    }
+  },
+  {
+    "id": "study-039",
+    "type": "scientific_study",
+    "text": "Title: Return to play testing following anterior cruciate reconstruction - A systematic review & meta-analysis. Authors: Eoghan T Hurley (2022). Journal: Knee. Key findings: Return-to-sport testing after ACL reconstruction is common but inconsistent, and passing tests does not eliminate reinjury risk. Testing batteries must be interpreted cautiously.. Practical signal: Route complex ACL cases into clinician-support mode with transparent residual uncertainty.. Themes: return-to-play, acl, testing.",
+    "metadata": {
+      "title": "Return to play testing following anterior cruciate reconstruction - A systematic review & meta-analysis",
+      "year": 2022,
+      "evidence_tier": "high",
+      "themes": [
+        "return-to-play",
+        "acl",
+        "testing"
+      ],
+      "citation": "Eoghan T Hurley (2022). Knee. DOI: 10.1016/j.knee.2021.11.010"
+    }
+  },
+  {
+    "id": "study-040",
+    "type": "scientific_study",
+    "text": "Title: Anterior Cruciate Ligament Return to Sport after Injury Scale (ACL-RSI) Scores over Time After Anterior Cruciate Ligament Reconstruction: A Systematic Review with Meta-analysis. Authors: Timothy C Sell (2024). Journal: Sports Medicine Open. Key findings: Psychological readiness changes over time and materially affects return-to-sport readiness after ACL reconstruction. Physical recovery outputs should not ignore confidence and fear.. Practical signal: Include readiness and confidence checkpoints in comeback plans, not just physical tests.. Themes: return-to-play, acl, psychological-readiness.",
+    "metadata": {
+      "title": "Anterior Cruciate Ligament Return to Sport after Injury Scale (ACL-RSI) Scores over Time After Anterior Cruciate Ligament Reconstruction: A Systematic Review with Meta-analysis",
+      "year": 2024,
+      "evidence_tier": "high",
+      "themes": [
+        "return-to-play",
+        "acl",
+        "psychological-readiness"
+      ],
+      "citation": "Timothy C Sell (2024). Sports Medicine Open. DOI: 10.1186/s40798-024-00712-w"
+    }
+  },
+  {
+    "id": "study-041",
+    "type": "scientific_study",
+    "text": "Title: Return to sport after anterior cruciate ligament reconstruction - prognostic factors and prognostic models: A systematic review. Authors: Inge E P M van Haren (2025). Journal: Annals of Physical and Rehabilitation Medicine. Key findings: Return-to-sport after ACL reconstruction depends on multiple interacting prognostic factors rather than a single rule. Prediction models remain imperfect and should be framed with uncertainty.. Practical signal: Use probabilistic comeback outlooks rather than definitive recovery promises.. Themes: return-to-play, acl, prognostic-models.",
+    "metadata": {
+      "title": "Return to sport after anterior cruciate ligament reconstruction - prognostic factors and prognostic models: A systematic review",
+      "year": 2025,
+      "evidence_tier": "high",
+      "themes": [
+        "return-to-play",
+        "acl",
+        "prognostic-models"
+      ],
+      "citation": "Inge E P M van Haren (2025). Annals of Physical and Rehabilitation Medicine. DOI: 10.1016/j.rehab.2024.101921"
+    }
+  },
+  {
+    "id": "study-042",
+    "type": "scientific_study",
+    "text": "Title: Return to Sport After Pediatric Anterior Cruciate Ligament Reconstruction: A Systematic Review of the Criteria. Authors: Justin-Pierre Lorange (2024). Journal: American Journal of Sports Medicine. Key findings: Youth ACL return-to-sport criteria are especially variable and require caution. Young athletes should not receive adult-style aggressive automation.. Practical signal: For minors, automatically downgrade comeback and supplement aggressiveness.. Themes: return-to-play, acl, youth-athletes.",
+    "metadata": {
+      "title": "Return to Sport After Pediatric Anterior Cruciate Ligament Reconstruction: A Systematic Review of the Criteria",
+      "year": 2024,
+      "evidence_tier": "high",
+      "themes": [
+        "return-to-play",
+        "acl",
+        "youth-athletes"
+      ],
+      "citation": "Justin-Pierre Lorange (2024). American Journal of Sports Medicine. DOI: 10.1177/03635465231187039"
+    }
+  },
+  {
+    "id": "study-043",
+    "type": "scientific_study",
+    "text": "Title: Human ankle plantar flexor muscle-tendon mechanics and energetics during maximum acceleration sprinting. Authors: Adrian Lai (2016). Journal: Journal of the Royal Society Interface. Key findings: Ankle plantar flexor tendon elastic strain energy remains vital across maximal sprint acceleration foot contacts. The ankle-foot complex is a key energy-transfer site rather than a minor secondary contributor.. Practical signal: Use ankle-foot elastic support as a real performance lever in acceleration analysis, not as an afterthought.. Themes: ankle-mechanics, acceleration, elasticity.",
+    "metadata": {
+      "title": "Human ankle plantar flexor muscle-tendon mechanics and energetics during maximum acceleration sprinting",
+      "year": 2016,
+      "evidence_tier": "high",
+      "themes": [
+        "ankle-mechanics",
+        "acceleration",
+        "elasticity"
+      ],
+      "citation": "Adrian Lai (2016). Journal of the Royal Society Interface. DOI: 10.1098/rsif.2016.0391"
+    }
+  },
+  {
+    "id": "study-044",
+    "type": "scientific_study",
+    "text": "Title: Ankle and Plantar Flexor Muscle-Tendon Unit Function in Sprinters: A Narrative Review. Authors: Evan D Crotty (2024). Journal: Sports Medicine. Key findings: The ankle joint and plantar-flexor muscle-tendon unit are especially important across start, acceleration, and maximal velocity sprint phases. Elite sprinters appear to express superior plantar-flexor rate of force development and ankle-mediated power transfer.. Practical signal: Give the ankle-foot complex its own explanatory layer in the report instead of burying it inside general elasticity.. Themes: ankle-mechanics, acceleration, max-velocity, elasticity.",
+    "metadata": {
+      "title": "Ankle and Plantar Flexor Muscle-Tendon Unit Function in Sprinters: A Narrative Review",
+      "year": 2024,
+      "evidence_tier": "high",
+      "themes": [
+        "ankle-mechanics",
+        "acceleration",
+        "max-velocity",
+        "elasticity"
+      ],
+      "citation": "Evan D Crotty (2024). Sports Medicine. DOI: 10.1007/s40279-023-01967-1"
+    }
+  },
+  {
+    "id": "study-045",
+    "type": "scientific_study",
+    "text": "Title: Traditional and ankle-specific vertical jumps as strength-power indicators for maximal sprint acceleration. Authors: R Nagahara (2014). Journal: Journal of Sports Medicine and Physical Fitness. Key findings: Ankle-specific vertical jump modalities help explain maximal sprint acceleration ability. Ankle-focused rebound output can add information beyond traditional jumps.. Practical signal: Add ankle-specific rebound testing to the intake when the goal is to explain appui quality in acceleration.. Themes: ankle-jump, ankle-mechanics, acceleration.",
+    "metadata": {
+      "title": "Traditional and ankle-specific vertical jumps as strength-power indicators for maximal sprint acceleration",
+      "year": 2014,
+      "evidence_tier": "moderate",
+      "themes": [
+        "ankle-jump",
+        "ankle-mechanics",
+        "acceleration"
+      ],
+      "citation": "R Nagahara (2014). Journal of Sports Medicine and Physical Fitness. DOI: PMID:24739258"
+    }
+  },
+  {
+    "id": "study-046",
+    "type": "scientific_study",
+    "text": "Title: Potential relationship between passive plantar flexor stiffness and sprint performance in sprinters. Authors: Chieri Takahashi (2018). Journal: Physical Therapy in Sport. Key findings: Passive plantar-flexor stiffness may relate to sprint performance in sprinters. This supports ankle stiffness as a meaningful but non-deterministic performance factor.. Practical signal: When ankle elastic support is discussed, label it as a probable contributor unless direct stiffness testing is available.. Themes: tendon-stiffness, ankle-mechanics, sprint-performance.",
+    "metadata": {
+      "title": "Potential relationship between passive plantar flexor stiffness and sprint performance in sprinters",
+      "year": 2018,
+      "evidence_tier": "moderate",
+      "themes": [
+        "tendon-stiffness",
+        "ankle-mechanics",
+        "sprint-performance"
+      ],
+      "citation": "Chieri Takahashi (2018). Physical Therapy in Sport. DOI: 10.1016/j.ptsp.2018.04.018"
+    }
+  },
+  {
+    "id": "study-047",
+    "type": "scientific_study",
+    "text": "Title: Knee and ankle joint stiffness in sprint running. Authors: Sami Kuitunen (2002). Journal: Medicine & Science in Sports & Exercise. Key findings: Ankle and knee stiffness are regulated during sprint running and contribute to how force is managed across contact. Stiffness is not simply 'more is better'; regulation quality matters.. Practical signal: Teach the system to explain appui quality as controlled stiffness management, not just maximal rigidity.. Themes: ankle-mechanics, foot-kinematics, sprint-performance.",
+    "metadata": {
+      "title": "Knee and ankle joint stiffness in sprint running",
+      "year": 2002,
+      "evidence_tier": "moderate",
+      "themes": [
+        "ankle-mechanics",
+        "foot-kinematics",
+        "sprint-performance"
+      ],
+      "citation": "Sami Kuitunen (2002). Medicine & Science in Sports & Exercise. DOI: 10.1097/00005768-200201000-00025"
+    }
+  },
+  {
+    "id": "study-048",
+    "type": "scientific_study",
+    "text": "Title: Relationship between Step-by-Step Foot Kinematics and Sprint Performance. Authors: Isabel Martín-Fuentes (2022). Journal: International Journal of Environmental Research and Public Health. Key findings: Step-by-step foot kinematics relate to sprint performance and help explain contact strategy. Foot position and contact behavior are relevant to how athletes create or lose speed.. Practical signal: Allow video or observation-supported discussion of appuis while keeping confidence lower than direct measurement.. Themes: foot-kinematics, ankle-mechanics, sprint-performance.",
+    "metadata": {
+      "title": "Relationship between Step-by-Step Foot Kinematics and Sprint Performance",
+      "year": 2022,
+      "evidence_tier": "moderate",
+      "themes": [
+        "foot-kinematics",
+        "ankle-mechanics",
+        "sprint-performance"
+      ],
+      "citation": "Isabel Martín-Fuentes (2022). International Journal of Environmental Research and Public Health. DOI: 10.3390/ijerph19116786"
+    }
+  },
+  {
+    "id": "study-049",
+    "type": "scientific_study",
+    "text": "Title: Relationship between ankle dorsiflexion range of motion and sprinting and jumping ability in young athletes. Authors: Julia Cerrillo-Sanchis (2024). Journal: Journal of Bodywork and Movement Therapies. Key findings: Lower weight-bearing lunge scores were associated with poorer sprinting and jumping performance in young athletes. A more detailed mobility classification may improve performance interpretation and risk awareness.. Practical signal: Use dorsiflexion or weight-bearing lunge data to explain limited range access and slower acceleration positions.. Themes: ankle-dorsiflexion, ankle-mechanics, sprint-performance.",
+    "metadata": {
+      "title": "Relationship between ankle dorsiflexion range of motion and sprinting and jumping ability in young athletes",
+      "year": 2024,
+      "evidence_tier": "high",
+      "themes": [
+        "ankle-dorsiflexion",
+        "ankle-mechanics",
+        "sprint-performance"
+      ],
+      "citation": "Julia Cerrillo-Sanchis (2024). Journal of Bodywork and Movement Therapies. DOI: 10.1016/j.jbmt.2024.02.013"
+    }
+  },
+  {
+    "id": "study-050",
+    "type": "scientific_study",
+    "text": "Title: Interventions for increasing ankle joint dorsiflexion: a systematic review and meta-analysis. Authors: Rebekah Young (2013). Journal: Journal of Foot and Ankle Research. Key findings: Several interventions can improve ankle dorsiflexion, although effects depend on method and context. Mobility is modifiable, which supports targeted intervention when restricted ankle range is limiting sport movement.. Practical signal: Treat ankle mobility as trainable, but preserve stiffness and appui quality while improving range.. Themes: ankle-dorsiflexion, recovery, training-prescription.",
+    "metadata": {
+      "title": "Interventions for increasing ankle joint dorsiflexion: a systematic review and meta-analysis",
+      "year": 2013,
+      "evidence_tier": "high",
+      "themes": [
+        "ankle-dorsiflexion",
+        "recovery",
+        "training-prescription"
+      ],
+      "citation": "Rebekah Young (2013). Journal of Foot and Ankle Research. DOI: 10.1186/1757-1146-6-46"
+    }
+  },
+  {
+    "id": "study-051",
+    "type": "scientific_study",
+    "text": "Title: Evidence for Intrinsic Foot Muscle Training in Improving Foot Function: A Systematic Review and Meta-Analysis. Authors: Abbis H Jaffri (2023). Journal: Journal of Athletic Training. Key findings: Intrinsic foot muscle training can improve foot function outcomes. This supports including low-level foot-core work inside appui and tissue-capacity programming.. Practical signal: Use intrinsic foot work as a support layer for appui quality rather than selling it as a magic sprint fix.. Themes: intrinsic-foot-muscles, foot-function, recovery.",
+    "metadata": {
+      "title": "Evidence for Intrinsic Foot Muscle Training in Improving Foot Function: A Systematic Review and Meta-Analysis",
+      "year": 2023,
+      "evidence_tier": "high",
+      "themes": [
+        "intrinsic-foot-muscles",
+        "foot-function",
+        "recovery"
+      ],
+      "citation": "Abbis H Jaffri (2023). Journal of Athletic Training. DOI: 10.4085/1062-6050-0162.22"
+    }
+  },
+  {
+    "id": "ev-accel-001",
+    "type": "evidence_chunk",
+    "text": "Title: Horizontal force production and early acceleration performance. Summary: Acceleration is strongly influenced by horizontal force application, relative strength, and projection mechanics in short sprints.. Tags: acceleration, force_expression, speed. Sports: speed-power, sprint, team-sport.",
+    "metadata": {
+      "title": "Horizontal force production and early acceleration performance",
+      "evidence_tier": "high",
+      "tags": [
+        "acceleration",
+        "force_expression",
+        "speed"
+      ],
+      "citation": "Sprint biomechanics review, force-oriented acceleration models."
+    }
+  },
+  {
+    "id": "ev-maxv-001",
+    "type": "evidence_chunk",
+    "text": "Title: Maximal velocity sprinting and stiffness-reactivity relationships. Summary: Maximal velocity performance tracks with stiffness management, reactive ability, vertical force orientation, and technical rhythm.. Tags: max_velocity, elastic_reactivity, speed. Sports: speed-power, sprint, jump.",
+    "metadata": {
+      "title": "Maximal velocity sprinting and stiffness-reactivity relationships",
+      "evidence_tier": "high",
+      "tags": [
+        "max_velocity",
+        "elastic_reactivity",
+        "speed"
+      ],
+      "citation": "Speed performance synthesis on upright mechanics and elastic reactivity."
+    }
+  },
+  {
+    "id": "ev-rsi-001",
+    "type": "evidence_chunk",
+    "text": "Title: Reactive strength index as a proxy for elastic/reactive capacity. Summary: Reactive strength index helps differentiate force-dominant from elastic-reactive profiles when paired with jump and sprint data.. Tags: elastic_reactivity, plyometrics, tendon_loading. Sports: speed-power, jump, team-sport.",
+    "metadata": {
+      "title": "Reactive strength index as a proxy for elastic/reactive capacity",
+      "evidence_tier": "high",
+      "tags": [
+        "elastic_reactivity",
+        "plyometrics",
+        "tendon_loading"
+      ],
+      "citation": "Plyometric profiling literature using drop jumps and reactive strength index."
+    }
+  },
+  {
+    "id": "ev-protein-001",
+    "type": "evidence_chunk",
+    "text": "Title: Protein requirements for athletes in strength and power development. Summary: Daily protein targets around 1.6 to 2.2 g/kg support adaptation, recovery, and lean-mass retention in high-output athletes.. Tags: nutrition, recovery, body_composition. Sports: speed-power, team-sport, combat.",
+    "metadata": {
+      "title": "Protein requirements for athletes in strength and power development",
+      "evidence_tier": "high",
+      "tags": [
+        "nutrition",
+        "recovery",
+        "body_composition"
+      ],
+      "citation": "Sports nutrition consensus on daily protein intake for trained athletes."
+    }
+  },
+  {
+    "id": "ev-creatine-001",
+    "type": "evidence_chunk",
+    "text": "Title: Creatine monohydrate for repeated high-power output. Summary: Creatine has strong evidence for repeated high-intensity performance and lean-mass support when medically appropriate.. Tags: supplement, power, recovery. Sports: speed-power, team-sport, strength.",
+    "metadata": {
+      "title": "Creatine monohydrate for repeated high-power output",
+      "evidence_tier": "high",
+      "tags": [
+        "supplement",
+        "power",
+        "recovery"
+      ],
+      "citation": "Sports supplementation consensus on creatine monohydrate."
+    }
+  },
+  {
+    "id": "ev-reds-001",
+    "type": "evidence_chunk",
+    "text": "Title: Relative energy deficiency in sport and performance decline. Summary: Low energy availability can impair recovery, tissue tolerance, endocrine function, and performance progression.. Tags: nutrition, recovery, red_flags, body_composition. Sports: speed-power, endurance, combat, team-sport.",
+    "metadata": {
+      "title": "Relative energy deficiency in sport and performance decline",
+      "evidence_tier": "high",
+      "tags": [
+        "nutrition",
+        "recovery",
+        "red_flags",
+        "body_composition"
+      ],
+      "citation": "Clinical guidance on RED-S in athletic populations."
+    }
+  },
+  {
+    "id": "ev-rtp-001",
+    "type": "evidence_chunk",
+    "text": "Title: Return-to-play progression requires criteria, not timelines alone. Summary: Return-to-play decisions should combine symptoms, load tolerance, objective testing, and sport demands rather than rely on calendar time alone.. Tags: recovery, return_to_play, red_flags. Sports: speed-power, team-sport, combat.",
+    "metadata": {
+      "title": "Return-to-play progression requires criteria, not timelines alone",
+      "evidence_tier": "high",
+      "tags": [
+        "recovery",
+        "return_to_play",
+        "red_flags"
+      ],
+      "citation": "Sports medicine return-to-play framework."
+    }
+  },
+  {
+    "id": "ev-sleep-001",
+    "type": "evidence_chunk",
+    "text": "Title: Sleep quality, fatigue management, and neuromuscular performance. Summary: Poor sleep quality can reduce readiness, reactive performance, and recovery quality even when training design is otherwise appropriate.. Tags: recovery, readiness, elastic_reactivity. Sports: speed-power, team-sport, combat, all.",
+    "metadata": {
+      "title": "Sleep quality, fatigue management, and neuromuscular performance",
+      "evidence_tier": "moderate",
+      "tags": [
+        "recovery",
+        "readiness",
+        "elastic_reactivity"
+      ],
+      "citation": "Athlete recovery literature on sleep and high-intensity output."
+    }
+  },
+  {
+    "id": "ev-elite-mbappe",
+    "type": "evidence_chunk",
+    "text": "Title: Kylian Mbappé sprint performance profile. Summary: Kylian Mbappé is one of the fastest footballers ever measured. His top speed has been recorded at 36–37 km/h (10.0–10.3 m/s) in official matches. He ran 100m in approximately 10.9s in training conditions (2018). His acceleration is exceptional: he reaches top speed very quickly, with a 0–30m time estimated around 3.7–3.8s. He won the 2018 World Cup at age 19 with France. Compared to Lamine Yamal, Mbappé is older (born 1998, age 26 in 2024) and has a more developed physical profile, with greater peak speed and acceleration. Mbappé is generally considered faster than Lamine Yamal.. Tags: speed, acceleration, max_velocity. Sports: team-sport, sprint, speed-power.",
+    "metadata": {
+      "title": "Kylian Mbappé sprint performance profile",
+      "evidence_tier": "high",
+      "tags": [
+        "speed",
+        "acceleration",
+        "max_velocity"
+      ],
+      "citation": "FIFA World Cup data, Ligue 1 & Champions League tracking 2018-2024."
+    }
+  },
+  {
+    "id": "ev-elite-yamal",
+    "type": "evidence_chunk",
+    "text": "Title: Lamine Yamal sprint performance profile. Summary: Lamine Yamal is an exceptional young talent (born July 2007) who plays for FC Barcelona. His top speed in La Liga has been measured at approximately 32–34 km/h (8.9–9.4 m/s), which is fast for a 16-year-old but below elite senior speeds. He won the UEFA Euro 2024 with Spain at age 16, becoming the youngest scorer in Euros history. His speed is notable for his age but Lamine Yamal is not as fast as Kylian Mbappé. Mbappé's top recorded speed (36–37 km/h) is significantly higher than Yamal's current maximum. However, Yamal is still developing physically and his sprint profile may improve significantly.. Tags: speed, acceleration, max_velocity. Sports: team-sport, sprint, speed-power.",
+    "metadata": {
+      "title": "Lamine Yamal sprint performance profile",
+      "evidence_tier": "moderate",
+      "tags": [
+        "speed",
+        "acceleration",
+        "max_velocity"
+      ],
+      "citation": "La Liga and UEFA Champions League tracking data, 2023-2024."
+    }
+  },
+  {
+    "id": "ev-elite-bolt",
+    "type": "evidence_chunk",
+    "text": "Title: Usain Bolt world record sprint performance. Summary: Usain Bolt holds the world record for 100m (9.58s) and 200m (19.19s) set in 2009. His top speed reached 12.4 m/s (44.72 km/h) at approximately 65–80m in the 100m. He is widely considered the fastest human in recorded history. For comparison: elite sprinters run 100m in 9.8–10.2s; elite team sport athletes (e.g. football) typically reach 34–37 km/h in matches, significantly below track sprint speeds. Bolt retired in 2017.. Tags: speed, max_velocity, acceleration. Sports: sprint, speed-power.",
+    "metadata": {
+      "title": "Usain Bolt world record sprint performance",
+      "evidence_tier": "high",
+      "tags": [
+        "speed",
+        "max_velocity",
+        "acceleration"
+      ],
+      "citation": "IAAF World Championships 2009, Berlin. 100m WR 9.58s."
+    }
+  },
+  {
+    "id": "ev-elite-noah-lyles",
+    "type": "evidence_chunk",
+    "text": "Title: Noah Lyles sprint performance profile. Summary: Noah Lyles is the 2024 Olympic 100m champion (Paris, 9.784s). He is also the 2023 World Champion in 100m (9.83s) and 200m (19.52s). His acceleration phase (0–30m) is elite, typically around 3.6–3.7s. He is currently the fastest active sprinter in the world as of 2024. He is faster than Kylian Mbappé: 9.784s for 100m vs Mbappé's estimated 10.9s in training. Football sprinting in matches (open play) typically reaches 35–37 km/h, far below track sprint conditions.. Tags: speed, max_velocity, acceleration. Sports: sprint, speed-power.",
+    "metadata": {
+      "title": "Noah Lyles sprint performance profile",
+      "evidence_tier": "high",
+      "tags": [
+        "speed",
+        "max_velocity",
+        "acceleration"
+      ],
+      "citation": "World Athletics Championships 2023, Budapest. 100m gold 9.83s."
+    }
+  },
+  {
+    "id": "study-001",
+    "type": "evidence_chunk",
+    "text": "Title: Technical ability of force application as a determinant factor of sprint performance. Summary: Sprint performance relates strongly to how well force is oriented horizontally, not only to total force magnitude. The ratio of horizontal to total force helps explain why two athletes with similar outputs can accelerate differently.. Tags: acceleration, ankle_appui_elasticity, force_expression, max_velocity, speed. Sports: speed-power, sprint.",
+    "metadata": {
+      "title": "Technical ability of force application as a determinant factor of sprint performance",
+      "evidence_tier": "high",
+      "tags": [
+        "acceleration",
+        "ankle_appui_elasticity",
+        "force_expression",
+        "max_velocity",
+        "speed"
+      ],
+      "citation": "Jean-Benoît Morin et al. Medicine & Science in Sports & Exercise. 2011. DOI: 10.1249/MSS.0b013e318216ea37"
+    }
+  },
+  {
+    "id": "study-002",
+    "type": "evidence_chunk",
+    "text": "Title: Sprint Acceleration Mechanics: The Major Role of Hamstrings in Horizontal Force Production. Summary: Horizontal force production during acceleration is strongly influenced by posterior-chain function, especially hamstrings. Early sprint performance should not be reduced to generic leg strength alone.. Tags: acceleration, ankle_appui_elasticity, max_velocity, speed. Sports: speed-power, sprint.",
+    "metadata": {
+      "title": "Sprint Acceleration Mechanics: The Major Role of Hamstrings in Horizontal Force Production",
+      "evidence_tier": "high",
+      "tags": [
+        "acceleration",
+        "ankle_appui_elasticity",
+        "max_velocity",
+        "speed"
+      ],
+      "citation": "Jean-Benoît Morin et al. Frontiers in Physiology. 2015. DOI: 10.3389/fphys.2015.00404"
+    }
+  },
+  {
+    "id": "study-003",
+    "type": "evidence_chunk",
+    "text": "Title: Sprint mechanical variables in elite athletes: Are force-velocity profiles sport specific or individual?. Summary: Sprint mechanical variables differ across sports, but individual variability remains substantial even among similarly performing athletes. Benchmarking should use both cohort archetypes and individual profiles rather than crude sport labels alone.. Tags: acceleration, force_expression, max_velocity, speed. Sports: speed-power.",
+    "metadata": {
+      "title": "Sprint mechanical variables in elite athletes: Are force-velocity profiles sport specific or individual?",
+      "evidence_tier": "high",
+      "tags": [
+        "acceleration",
+        "force_expression",
+        "max_velocity",
+        "speed"
+      ],
+      "citation": "Thomas A Haugen et al. PLOS One. 2019. DOI: 10.1371/journal.pone.0215551"
+    }
+  },
+  {
+    "id": "study-004",
+    "type": "evidence_chunk",
+    "text": "Title: Force-velocity profiling of sprinting athletes: single-run vs. multiple-run methods. Summary: Single-run and multiple-run methods can both profile sprint mechanics when protocols are standardized. Methodological consistency matters if profiles are used for athlete comparison or longitudinal monitoring.. Tags: acceleration, force_expression, max_velocity, readiness, speed. Sports: speed-power, sprint.",
+    "metadata": {
+      "title": "Force-velocity profiling of sprinting athletes: single-run vs. multiple-run methods",
+      "evidence_tier": "high",
+      "tags": [
+        "acceleration",
+        "force_expression",
+        "max_velocity",
+        "readiness",
+        "speed"
+      ],
+      "citation": "Christian Helland et al. European Journal of Applied Physiology. 2019. DOI: 10.1007/s00421-018-4045-2"
+    }
+  },
+  {
+    "id": "study-005",
+    "type": "evidence_chunk",
+    "text": "Title: Delineating the potential of the vertical and horizontal force-velocity profile for optimizing sport performance: A systematic review. Summary: Vertical and horizontal force-velocity profiles can meaningfully guide performance diagnosis when the task matches the sport demand. Profiling becomes much less useful when it is detached from the athlete's event constraints.. Tags: acceleration, force_expression, max_velocity, plyometrics, recovery, speed. Sports: jump, speed-power, sprint.",
+    "metadata": {
+      "title": "Delineating the potential of the vertical and horizontal force-velocity profile for optimizing sport performance: A systematic review",
+      "evidence_tier": "high",
+      "tags": [
+        "acceleration",
+        "force_expression",
+        "max_velocity",
+        "plyometrics",
+        "recovery",
+        "speed"
+      ],
+      "citation": "Andrés Baena-Raya et al. Journal of Sports Sciences. 2022. DOI: 10.1080/02640414.2021.1993641"
+    }
+  },
+  {
+    "id": "study-006",
+    "type": "evidence_chunk",
+    "text": "Title: Optimal mechanical force-velocity profile for sprint acceleration performance. Summary: Acceleration performance may depend on how close an athlete is to an optimal balance between force and velocity capacities. Training should target the profile deficit rather than chase every quality equally.. Tags: acceleration, ankle_appui_elasticity, force_expression, max_velocity, speed. Sports: speed-power, sprint, team-sport.",
+    "metadata": {
+      "title": "Optimal mechanical force-velocity profile for sprint acceleration performance",
+      "evidence_tier": "high",
+      "tags": [
+        "acceleration",
+        "ankle_appui_elasticity",
+        "force_expression",
+        "max_velocity",
+        "speed"
+      ],
+      "citation": "Pierre Samozino et al. Scandinavian Journal of Medicine & Science in Sports. 2022. DOI: 10.1111/sms.14097"
+    }
+  },
+  {
+    "id": "study-007",
+    "type": "evidence_chunk",
+    "text": "Title: The Effect of Resisted Sprint Training on Force-Velocity Profile Change: A Systematic Review and Meta-Analysis. Summary: Resisted sprint interventions can shift the sprint force-velocity profile and especially target acceleration-oriented deficits. Load selection should be profile-specific rather than tradition-driven.. Tags: acceleration, ankle_appui_elasticity, force_expression, plyometrics, recovery, speed. Sports: speed-power, sprint.",
+    "metadata": {
+      "title": "The Effect of Resisted Sprint Training on Force-Velocity Profile Change: A Systematic Review and Meta-Analysis",
+      "evidence_tier": "high",
+      "tags": [
+        "acceleration",
+        "ankle_appui_elasticity",
+        "force_expression",
+        "plyometrics",
+        "recovery",
+        "speed"
+      ],
+      "citation": "Arjan Dougan et al. Journal of Strength and Conditioning Research. 2025. DOI: 10.1519/JSC.0000000000005205"
+    }
+  },
+  {
+    "id": "study-008",
+    "type": "evidence_chunk",
+    "text": "Title: The Effect of Resisted Sprint Training on Acceleration: A Systematic Review and Meta-Analysis. Summary: Resisted sprint training improves acceleration, with load and context altering magnitude of effect. It is more justifiable for acceleration-limited athletes than for already top-speed-dominant profiles.. Tags: acceleration, ankle_appui_elasticity, force_expression, plyometrics, recovery, speed. Sports: speed-power, sprint.",
+    "metadata": {
+      "title": "The Effect of Resisted Sprint Training on Acceleration: A Systematic Review and Meta-Analysis",
+      "evidence_tier": "moderate",
+      "tags": [
+        "acceleration",
+        "ankle_appui_elasticity",
+        "force_expression",
+        "plyometrics",
+        "recovery",
+        "speed"
+      ],
+      "citation": "Elizabeth K Aldrich et al. Strength and Conditioning Journal / review record. 2024. DOI: 10.70252/VKAV1115"
+    }
+  },
+  {
+    "id": "study-009",
+    "type": "evidence_chunk",
+    "text": "Title: A simple method for computing sprint acceleration kinetics from running velocity data: Replication study with improved design. Summary: Velocity-based estimation methods can derive meaningful sprint kinetics with practical field value. This supports lower-friction athlete testing stacks when lab force plates are unavailable.. Tags: acceleration, force_expression, max_velocity, readiness, speed. Sports: speed-power, sprint.",
+    "metadata": {
+      "title": "A simple method for computing sprint acceleration kinetics from running velocity data: Replication study with improved design",
+      "evidence_tier": "high",
+      "tags": [
+        "acceleration",
+        "force_expression",
+        "max_velocity",
+        "readiness",
+        "speed"
+      ],
+      "citation": "Jean-Benoit Morin et al. Journal of Biomechanics. 2019. DOI: 10.1016/j.jbiomech.2019.07.020"
+    }
+  },
+  {
+    "id": "study-010",
+    "type": "evidence_chunk",
+    "text": "Title: Concurrent Validity and Reliability of Sprinting Force-Velocity Profile Assessed With GPS Devices in Elite Athletes. Summary: GPS-derived sprint force-velocity profiling can be practically useful in elite settings when device and protocol quality are controlled. This supports scalable field monitoring rather than lab-only workflows.. Tags: acceleration, force_expression, max_velocity, readiness, speed. Sports: speed-power.",
+    "metadata": {
+      "title": "Concurrent Validity and Reliability of Sprinting Force-Velocity Profile Assessed With GPS Devices in Elite Athletes",
+      "evidence_tier": "high",
+      "tags": [
+        "acceleration",
+        "force_expression",
+        "max_velocity",
+        "readiness",
+        "speed"
+      ],
+      "citation": "Pauline Clavel et al. International Journal of Sports Physiology and Performance. 2022. DOI: 10.1123/ijspp.2021-0339"
+    }
+  },
+  {
+    "id": "study-011",
+    "type": "evidence_chunk",
+    "text": "Title: Concurrent Validity and Reliability of the Sprint Force-Velocity Profile Assessed with K-AI Wearable Tech. Summary: Wearable-based sprint profiling can reach useful reliability for applied monitoring. Field testing is practical, but downstream recommendations should still respect device limitations.. Tags: acceleration, force_expression, max_velocity, readiness, speed. Sports: speed-power.",
+    "metadata": {
+      "title": "Concurrent Validity and Reliability of the Sprint Force-Velocity Profile Assessed with K-AI Wearable Tech",
+      "evidence_tier": "moderate",
+      "tags": [
+        "acceleration",
+        "force_expression",
+        "max_velocity",
+        "readiness",
+        "speed"
+      ],
+      "citation": "Laurine Vantieghem-Nicolas et al. Sensors. 2023. DOI: 10.3390/s23198189"
+    }
+  },
+  {
+    "id": "study-012",
+    "type": "evidence_chunk",
+    "text": "Title: The importance of duration and magnitude of force application to sprint performance during the initial acceleration, transition and maximal velocity phases. Summary: Different sprint phases depend on different combinations of force magnitude, impulse timing, and braking behavior. An athlete can be strong in one phase and weak in another, which matters for detailed diagnosis.. Tags: acceleration, ankle_appui_elasticity, max_velocity, speed. Sports: speed-power, sprint.",
+    "metadata": {
+      "title": "The importance of duration and magnitude of force application to sprint performance during the initial acceleration, transition and maximal velocity phases",
+      "evidence_tier": "high",
+      "tags": [
+        "acceleration",
+        "ankle_appui_elasticity",
+        "max_velocity",
+        "speed"
+      ],
+      "citation": "Hans C von Lieres Und Wilkau et al. Journal of Sports Sciences. 2020. DOI: 10.1080/02640414.2020.1785193"
+    }
+  },
+  {
+    "id": "study-013",
+    "type": "evidence_chunk",
+    "text": "Title: Relationships between kinematic characteristics and ratio of forces during initial sprint acceleration. Summary: Specific acceleration kinematics relate to the ratio of horizontal force during early steps. Visible technique cues can help interpret sprint metrics, but not replace direct kinetic measurement.. Tags: acceleration, force_expression, max_velocity, speed. Sports: speed-power, sprint.",
+    "metadata": {
+      "title": "Relationships between kinematic characteristics and ratio of forces during initial sprint acceleration",
+      "evidence_tier": "moderate",
+      "tags": [
+        "acceleration",
+        "force_expression",
+        "max_velocity",
+        "speed"
+      ],
+      "citation": "Daniel King et al. Journal of Sports Sciences / biomechanics stream. 2023. DOI: 10.1080/02640414.2023.2164062"
+    }
+  },
+  {
+    "id": "study-014",
+    "type": "evidence_chunk",
+    "text": "Title: Reactive Strength Index and its Associations with Measures of Physical and Sports Performance: A Systematic Review with Meta-Analysis. Summary: RSI is meaningfully associated with speed, change-of-direction, and other high-performance outputs when tested well. RSI is a useful proxy for elastic/reactive ability, but it is still not a direct tendon or fascia measure.. Tags: elastic_reactivity, plyometrics, tendon_loading. Sports: speed-power.",
+    "metadata": {
+      "title": "Reactive Strength Index and its Associations with Measures of Physical and Sports Performance: A Systematic Review with Meta-Analysis",
+      "evidence_tier": "high",
+      "tags": [
+        "elastic_reactivity",
+        "plyometrics",
+        "tendon_loading"
+      ],
+      "citation": "Paul Jarvis et al. Sports Medicine. 2022. DOI: 10.1007/s40279-021-01566-y"
+    }
+  },
+  {
+    "id": "study-015",
+    "type": "evidence_chunk",
+    "text": "Title: How to Improve the Reactive Strength Index among Male Athletes? A Systematic Review with Meta-Analysis. Summary: RSI can be improved through targeted jump and plyometric programming. Programming choices should account for athlete level and tissue tolerance.. Tags: elastic_reactivity, plyometrics, recovery, speed, tendon_loading. Sports: speed-power.",
+    "metadata": {
+      "title": "How to Improve the Reactive Strength Index among Male Athletes? A Systematic Review with Meta-Analysis",
+      "evidence_tier": "moderate",
+      "tags": [
+        "elastic_reactivity",
+        "plyometrics",
+        "recovery",
+        "speed",
+        "tendon_loading"
+      ],
+      "citation": "André Rebelo et al. Healthcare. 2022. DOI: 10.3390/healthcare10040593"
+    }
+  },
+  {
+    "id": "study-016",
+    "type": "evidence_chunk",
+    "text": "Title: Effects of Plyometric Jump Training on the Reactive Strength Index in Healthy Individuals Across the Lifespan: A Systematic Review with Meta-analysis. Summary: Plyometric jump training improves RSI across age groups when exposure is progressed appropriately. This supports a structured elastic-development module inside performance planning.. Tags: elastic_reactivity, plyometrics, recovery, speed, tendon_loading. Sports: speed-power.",
+    "metadata": {
+      "title": "Effects of Plyometric Jump Training on the Reactive Strength Index in Healthy Individuals Across the Lifespan: A Systematic Review with Meta-analysis",
+      "evidence_tier": "high",
+      "tags": [
+        "elastic_reactivity",
+        "plyometrics",
+        "recovery",
+        "speed",
+        "tendon_loading"
+      ],
+      "citation": "Rodrigo Ramirez-Campillo et al. Sports Medicine. 2023. DOI: 10.1007/s40279-023-01825-0"
+    }
+  },
+  {
+    "id": "study-017",
+    "type": "evidence_chunk",
+    "text": "Title: Sprint performance is related to muscle fascicle length in male 100-m sprinters. Summary: Longer muscle fascicles are associated with better sprint performance in male sprinters. Architecture contributes to ceiling and style of performance, not just current conditioning.. Tags: acceleration, force_expression, max_velocity, speed. Sports: speed-power, sprint.",
+    "metadata": {
+      "title": "Sprint performance is related to muscle fascicle length in male 100-m sprinters",
+      "evidence_tier": "moderate",
+      "tags": [
+        "acceleration",
+        "force_expression",
+        "max_velocity",
+        "speed"
+      ],
+      "citation": "K Kumagai et al. Journal of Applied Physiology. 2000. DOI: 10.1152/jappl.2000.88.3.811"
+    }
+  },
+  {
+    "id": "study-018",
+    "type": "evidence_chunk",
+    "text": "Title: Relationship between sprint performance and muscle fascicle length in female sprinters. Summary: Longer fascicles are also associated with sprint performance in female sprinters. Percent body fat showed a meaningful relationship with sprint record in this population.. Tags: acceleration, force_expression, max_velocity, speed. Sports: speed-power, sprint.",
+    "metadata": {
+      "title": "Relationship between sprint performance and muscle fascicle length in female sprinters",
+      "evidence_tier": "moderate",
+      "tags": [
+        "acceleration",
+        "force_expression",
+        "max_velocity",
+        "speed"
+      ],
+      "citation": "T Abe et al. Journal of Physiological Anthropology and Applied Human Science. 2001. DOI: 10.2114/jpa.20.141"
+    }
+  },
+  {
+    "id": "study-019",
+    "type": "evidence_chunk",
+    "text": "Title: The Muscle Morphology of Elite Sprint Running. Summary: Elite sprint performance is associated with distinct muscular morphology patterns rather than generic hypertrophy alone. Regional muscle structure matters for high-speed running qualities.. Tags: body_composition, force_expression, speed. Sports: speed-power, sprint.",
+    "metadata": {
+      "title": "The Muscle Morphology of Elite Sprint Running",
+      "evidence_tier": "high",
+      "tags": [
+        "body_composition",
+        "force_expression",
+        "speed"
+      ],
+      "citation": "Robert Miller et al. Medicine & Science in Sports & Exercise. 2021. DOI: 10.1249/MSS.0000000000002522"
+    }
+  },
+  {
+    "id": "study-020",
+    "type": "evidence_chunk",
+    "text": "Title: Anthropometric, strength, and power predictors of sprinting performance. Summary: Generic anthropometric and strength tests were weak predictors of sprint performance compared with more sprint-specific testing. This is an important warning against overselling body measurements in isolation.. Tags: acceleration, body_composition, max_velocity, speed. Sports: speed-power.",
+    "metadata": {
+      "title": "Anthropometric, strength, and power predictors of sprinting performance",
+      "evidence_tier": "moderate",
+      "tags": [
+        "acceleration",
+        "body_composition",
+        "max_velocity",
+        "speed"
+      ],
+      "citation": "M Kukolj et al. Journal of Sports Medicine and Physical Fitness. 1999. DOI: PMID:10399419"
+    }
+  },
+  {
+    "id": "study-021",
+    "type": "evidence_chunk",
+    "text": "Title: Effects of Increased Loading on In Vivo Tendon Properties: A Systematic Review. Summary: Tendons adapt to loading, but adaptation magnitude and time course vary markedly between protocols and individuals. This supports treating tendon capacity as trainable but slower and less linear than pure neuromuscular output.. Tags: recovery, tendon_loading. Sports: speed-power.",
+    "metadata": {
+      "title": "Effects of Increased Loading on In Vivo Tendon Properties: A Systematic Review",
+      "evidence_tier": "high",
+      "tags": [
+        "recovery",
+        "tendon_loading"
+      ],
+      "citation": "Karin Rosager et al. Sports Medicine. 2015. DOI: 10.1007/s40279-014-0286-9"
+    }
+  },
+  {
+    "id": "study-022",
+    "type": "evidence_chunk",
+    "text": "Title: In vivo Achilles tendon loading during jumping in humans. Summary: Achilles tendon stores and returns meaningful elastic energy during jumping and hopping tasks. Elastic behavior is task dependent and linked to performance context.. Tags: elastic_reactivity, recovery, tendon_loading. Sports: jump, speed-power.",
+    "metadata": {
+      "title": "In vivo Achilles tendon loading during jumping in humans",
+      "evidence_tier": "moderate",
+      "tags": [
+        "elastic_reactivity",
+        "recovery",
+        "tendon_loading"
+      ],
+      "citation": "Paavo V Komi et al. European Journal of Applied Physiology. 1995. DOI: 10.1007/BF00635880"
+    }
+  },
+  {
+    "id": "study-023",
+    "type": "evidence_chunk",
+    "text": "Title: Correlations Between Achilles Tendon Stiffness and Jumping Performance: A Comparative Study of Soccer and Basketball Athletes. Summary: Achilles tendon stiffness shows sport-specific patterns and may relate to jumping performance. Tendon metrics can add value, but correlations are not uniform across sports.. Tags: elastic_reactivity, tendon_loading. Sports: jump, speed-power, team-sport.",
+    "metadata": {
+      "title": "Correlations Between Achilles Tendon Stiffness and Jumping Performance: A Comparative Study of Soccer and Basketball Athletes",
+      "evidence_tier": "moderate",
+      "tags": [
+        "elastic_reactivity",
+        "tendon_loading"
+      ],
+      "citation": "Daniel Schmidt et al. Journal of Functional Morphology and Kinesiology. 2025. DOI: 10.3390/jfmk10020112"
+    }
+  },
+  {
+    "id": "study-024",
+    "type": "evidence_chunk",
+    "text": "Title: Effects of midsole cushioning stiffness on Achilles tendon stretch during running. Summary: External equipment choices can change Achilles tendon stretch and loading characteristics. The performance and recovery system should not ignore footwear context.. Tags: recovery, speed, tendon_loading. Sports: speed-power.",
+    "metadata": {
+      "title": "Effects of midsole cushioning stiffness on Achilles tendon stretch during running",
+      "evidence_tier": "moderate",
+      "tags": [
+        "recovery",
+        "speed",
+        "tendon_loading"
+      ],
+      "citation": "Michael Esposito et al. Scientific Reports. 2022. DOI: 10.1038/s41598-022-07719-x"
+    }
+  },
+  {
+    "id": "study-025",
+    "type": "evidence_chunk",
+    "text": "Title: International Society of Sports Nutrition Position Stand: protein and exercise. Summary: Daily protein intake around 1.4 to 2.0 g/kg/day is sufficient for many exercising individuals, with higher intakes useful in some energy-restricted contexts. Protein timing and distribution matter less than total adequacy, but still support adaptation.. Tags: body_composition, nutrition, recovery. Sports: speed-power.",
+    "metadata": {
+      "title": "International Society of Sports Nutrition Position Stand: protein and exercise",
+      "evidence_tier": "high",
+      "tags": [
+        "body_composition",
+        "nutrition",
+        "recovery"
+      ],
+      "citation": "Ralf Jäger et al. Journal of the International Society of Sports Nutrition. 2017. DOI: 10.1186/s12970-017-0177-8"
+    }
+  },
+  {
+    "id": "study-026",
+    "type": "evidence_chunk",
+    "text": "Title: Essential Amino Acids and Protein Synthesis: Insights into Maximizing the Muscle and Whole-Body Response to Feeding. Summary: Essential amino acid composition is central to maximizing muscle protein synthesis response. This helps explain why isolated BCAA logic is weaker than complete high-quality protein or EAA strategies.. Tags: body_composition, nutrition, recovery. Sports: speed-power.",
+    "metadata": {
+      "title": "Essential Amino Acids and Protein Synthesis: Insights into Maximizing the Muscle and Whole-Body Response to Feeding",
+      "evidence_tier": "high",
+      "tags": [
+        "body_composition",
+        "nutrition",
+        "recovery"
+      ],
+      "citation": "David D Church et al. Nutrients. 2020. DOI: 10.3390/nu12123717"
+    }
+  },
+  {
+    "id": "study-027",
+    "type": "evidence_chunk",
+    "text": "Title: International Society of Sports Nutrition position stand: safety and efficacy of creatine supplementation in exercise, sport, and medicine. Summary: Creatine is among the most supported ergogenic aids for high-intensity performance and training adaptation. There is also evidence for possible roles in recovery and rehabilitation contexts.. Tags: body_composition, nutrition, power, recovery, supplement. Sports: speed-power.",
+    "metadata": {
+      "title": "International Society of Sports Nutrition position stand: safety and efficacy of creatine supplementation in exercise, sport, and medicine",
+      "evidence_tier": "high",
+      "tags": [
+        "body_composition",
+        "nutrition",
+        "power",
+        "recovery",
+        "supplement"
+      ],
+      "citation": "Richard B Kreider et al. Journal of the International Society of Sports Nutrition. 2017. DOI: 10.1186/s12970-017-0173-z"
+    }
+  },
+  {
+    "id": "study-028",
+    "type": "evidence_chunk",
+    "text": "Title: International Society of Sports Nutrition position stand: creatine supplementation and exercise. Summary: Earlier ISSN synthesis already established creatine as a leading evidence-based ergogenic aid. This provides historical continuity for the creatine literature base.. Tags: body_composition, nutrition, power, recovery, supplement. Sports: speed-power.",
+    "metadata": {
+      "title": "International Society of Sports Nutrition position stand: creatine supplementation and exercise",
+      "evidence_tier": "moderate",
+      "tags": [
+        "body_composition",
+        "nutrition",
+        "power",
+        "recovery",
+        "supplement"
+      ],
+      "citation": "Thomas W Buford et al. Journal of the International Society of Sports Nutrition. 2007. DOI: 10.1186/1550-2783-4-6"
+    }
+  },
+  {
+    "id": "study-029",
+    "type": "evidence_chunk",
+    "text": "Title: International Society of Sports Nutrition position stand: sodium bicarbonate and exercise performance. Summary: Sodium bicarbonate can help selected high-intensity efforts, but tolerance and GI side effects are major practical issues. This is not a universal default supplement and should be tested cautiously.. Tags: body_composition, nutrition, power, recovery, supplement. Sports: speed-power.",
+    "metadata": {
+      "title": "International Society of Sports Nutrition position stand: sodium bicarbonate and exercise performance",
+      "evidence_tier": "high",
+      "tags": [
+        "body_composition",
+        "nutrition",
+        "power",
+        "recovery",
+        "supplement"
+      ],
+      "citation": "Jozo Grgic et al. Journal of the International Society of Sports Nutrition. 2021. DOI: 10.1186/s12970-021-00458-w"
+    }
+  },
+  {
+    "id": "study-030",
+    "type": "evidence_chunk",
+    "text": "Title: Effects of Acute Caffeine Ingestion on Repeated Sprint Ability: A Systematic Review and Meta-Analysis. Summary: Acute caffeine ingestion can improve repeated sprint ability, especially at higher doses, though effects vary by modality and tolerance. Evidence is stronger for some repeated high-intensity tasks than for every sprint scenario.. Tags: body_composition, nutrition, power, recovery, speed, supplement. Sports: speed-power, sprint.",
+    "metadata": {
+      "title": "Effects of Acute Caffeine Ingestion on Repeated Sprint Ability: A Systematic Review and Meta-Analysis",
+      "evidence_tier": "moderate",
+      "tags": [
+        "body_composition",
+        "nutrition",
+        "power",
+        "recovery",
+        "speed",
+        "supplement"
+      ],
+      "citation": "Yunteng Wang et al. Nutrients. 2025. DOI: 10.3390/nu17213475"
+    }
+  },
+  {
+    "id": "study-031",
+    "type": "evidence_chunk",
+    "text": "Title: Isolated ingestion of caffeine and sodium bicarbonate on repeated sprint performance: A systematic review and meta-analysis. Summary: Older pooled evidence found no clear repeated-sprint benefit from isolated caffeine or bicarbonate under those included protocols. This is useful contradictory evidence against overconfident supplement claims.. Tags: body_composition, nutrition, power, recovery, supplement. Sports: speed-power, sprint.",
+    "metadata": {
+      "title": "Isolated ingestion of caffeine and sodium bicarbonate on repeated sprint performance: A systematic review and meta-analysis",
+      "evidence_tier": "moderate",
+      "tags": [
+        "body_composition",
+        "nutrition",
+        "power",
+        "recovery",
+        "supplement"
+      ],
+      "citation": "João P Lopes-Silva et al. Journal of Science and Medicine in Sport. 2019. DOI: 10.1016/j.jsams.2019.03.007"
+    }
+  },
+  {
+    "id": "study-032",
+    "type": "evidence_chunk",
+    "text": "Title: The Impact of Sleep Interventions on Athletic Performance: A Systematic Review. Summary: Sleep extension and napping show the clearest positive impact on performance and recovery outcomes. Sleep hygiene alone appears less consistently effective.. Tags: readiness, recovery. Sports: speed-power.",
+    "metadata": {
+      "title": "The Impact of Sleep Interventions on Athletic Performance: A Systematic Review",
+      "evidence_tier": "high",
+      "tags": [
+        "readiness",
+        "recovery"
+      ],
+      "citation": "Lúcio A Cunha et al. Sports Medicine Open. 2023. DOI: 10.1186/s40798-023-00599-z"
+    }
+  },
+  {
+    "id": "study-033",
+    "type": "evidence_chunk",
+    "text": "Title: IOC consensus statement on relative energy deficiency in sport (RED-S): 2018 update. Summary: Low energy availability affects health and performance across multiple systems and should matter to athlete monitoring. RED-S is a multidisciplinary risk-management issue, not just a body-fat discussion.. Tags: nutrition, recovery, red_flags. Sports: speed-power.",
+    "metadata": {
+      "title": "IOC consensus statement on relative energy deficiency in sport (RED-S): 2018 update",
+      "evidence_tier": "high",
+      "tags": [
+        "nutrition",
+        "recovery",
+        "red_flags"
+      ],
+      "citation": "Margo Mountjoy et al. British Journal of Sports Medicine. 2018. DOI: 10.1136/bjsports-2018-099193"
+    }
+  },
+  {
+    "id": "study-034",
+    "type": "evidence_chunk",
+    "text": "Title: Low Energy Availability and Relative Energy Deficiency in Sport: A Systematic Review and Meta-analysis. Summary: Low energy availability and RED-S are prevalent enough to warrant routine screening in athlete-support systems. Performance and injury risk consequences justify caution before prescribing aggressive cutting strategies.. Tags: nutrition, recovery, red_flags. Sports: speed-power.",
+    "metadata": {
+      "title": "Low Energy Availability and Relative Energy Deficiency in Sport: A Systematic Review and Meta-analysis",
+      "evidence_tier": "high",
+      "tags": [
+        "nutrition",
+        "recovery",
+        "red_flags"
+      ],
+      "citation": "Tara L Gallant et al. Sports Medicine. 2025. DOI: 10.1007/s40279-024-02130-0"
+    }
+  },
+  {
+    "id": "study-035",
+    "type": "evidence_chunk",
+    "text": "Title: Markers of Low Energy Availability in Overreached Athletes: A Systematic Review and Meta-analysis. Summary: Low energy availability markers and underperformance frequently overlap in overloaded athletes. Recovery interpretation should not isolate training stress from fueling status.. Tags: nutrition, readiness, recovery, red_flags. Sports: speed-power.",
+    "metadata": {
+      "title": "Markers of Low Energy Availability in Overreached Athletes: A Systematic Review and Meta-analysis",
+      "evidence_tier": "high",
+      "tags": [
+        "nutrition",
+        "readiness",
+        "recovery",
+        "red_flags"
+      ],
+      "citation": "Megan A Kuikman et al. Sports Medicine. 2022. DOI: 10.1007/s40279-022-01723-x"
+    }
+  },
+  {
+    "id": "study-036",
+    "type": "evidence_chunk",
+    "text": "Title: Return to Play After Hamstring Injuries: A Qualitative Systematic Review of Definitions and Criteria. Summary: Hamstring return-to-play definitions and criteria vary widely and lack strong validation. This argues against timeline-only recovery outputs.. Tags: recovery, red_flags, return_to_play, speed. Sports: speed-power.",
+    "metadata": {
+      "title": "Return to Play After Hamstring Injuries: A Qualitative Systematic Review of Definitions and Criteria",
+      "evidence_tier": "high",
+      "tags": [
+        "recovery",
+        "red_flags",
+        "return_to_play",
+        "speed"
+      ],
+      "citation": "Nick van der Horst et al. Sports Medicine. 2016. DOI: 10.1007/s40279-015-0468-7"
+    }
+  },
+  {
+    "id": "study-037",
+    "type": "evidence_chunk",
+    "text": "Title: Criteria for Progressing Rehabilitation and Determining Return-to-Play Clearance Following Hamstring Strain Injury: A Systematic Review. Summary: Rehabilitation progression and clearance criteria after hamstring injury are variable and incompletely validated. Pain, strength, flexibility, and function all matter, but none is sufficient alone.. Tags: recovery, red_flags, return_to_play, speed. Sports: speed-power.",
+    "metadata": {
+      "title": "Criteria for Progressing Rehabilitation and Determining Return-to-Play Clearance Following Hamstring Strain Injury: A Systematic Review",
+      "evidence_tier": "high",
+      "tags": [
+        "recovery",
+        "red_flags",
+        "return_to_play",
+        "speed"
+      ],
+      "citation": "Jack T Hickey et al. Sports Medicine. 2017. DOI: 10.1007/s40279-016-0667-x"
+    }
+  },
+  {
+    "id": "study-038",
+    "type": "evidence_chunk",
+    "text": "Title: Evidence-Based Management and Factors Associated With Return to Play After Acute Hamstring Injury in Athletes: A Systematic Review. Summary: Evidence-based hamstring management should integrate injury severity, progress markers, and sport demands. Reinjury risk remains meaningful after return.. Tags: recovery, red_flags, return_to_play, speed. Sports: speed-power.",
+    "metadata": {
+      "title": "Evidence-Based Management and Factors Associated With Return to Play After Acute Hamstring Injury in Athletes: A Systematic Review",
+      "evidence_tier": "moderate",
+      "tags": [
+        "recovery",
+        "red_flags",
+        "return_to_play",
+        "speed"
+      ],
+      "citation": "Samuel S Rudisill et al. Orthopaedic Journal of Sports Medicine. 2021. DOI: 10.1177/23259671211053833"
+    }
+  },
+  {
+    "id": "study-039",
+    "type": "evidence_chunk",
+    "text": "Title: Return to play testing following anterior cruciate reconstruction - A systematic review & meta-analysis. Summary: Return-to-sport testing after ACL reconstruction is common but inconsistent, and passing tests does not eliminate reinjury risk. Testing batteries must be interpreted cautiously.. Tags: recovery, red_flags, return_to_play. Sports: speed-power.",
+    "metadata": {
+      "title": "Return to play testing following anterior cruciate reconstruction - A systematic review & meta-analysis",
+      "evidence_tier": "high",
+      "tags": [
+        "recovery",
+        "red_flags",
+        "return_to_play"
+      ],
+      "citation": "Eoghan T Hurley et al. Knee. 2022. DOI: 10.1016/j.knee.2021.11.010"
+    }
+  },
+  {
+    "id": "study-040",
+    "type": "evidence_chunk",
+    "text": "Title: Anterior Cruciate Ligament Return to Sport after Injury Scale (ACL-RSI) Scores over Time After Anterior Cruciate Ligament Reconstruction: A Systematic Review with Meta-analysis. Summary: Psychological readiness changes over time and materially affects return-to-sport readiness after ACL reconstruction. Physical recovery outputs should not ignore confidence and fear.. Tags: readiness, recovery, red_flags, return_to_play. Sports: speed-power.",
+    "metadata": {
+      "title": "Anterior Cruciate Ligament Return to Sport after Injury Scale (ACL-RSI) Scores over Time After Anterior Cruciate Ligament Reconstruction: A Systematic Review with Meta-analysis",
+      "evidence_tier": "high",
+      "tags": [
+        "readiness",
+        "recovery",
+        "red_flags",
+        "return_to_play"
+      ],
+      "citation": "Timothy C Sell et al. Sports Medicine Open. 2024. DOI: 10.1186/s40798-024-00712-w"
+    }
+  },
+  {
+    "id": "study-041",
+    "type": "evidence_chunk",
+    "text": "Title: Return to sport after anterior cruciate ligament reconstruction - prognostic factors and prognostic models: A systematic review. Summary: Return-to-sport after ACL reconstruction depends on multiple interacting prognostic factors rather than a single rule. Prediction models remain imperfect and should be framed with uncertainty.. Tags: recovery, red_flags, return_to_play. Sports: speed-power.",
+    "metadata": {
+      "title": "Return to sport after anterior cruciate ligament reconstruction - prognostic factors and prognostic models: A systematic review",
+      "evidence_tier": "high",
+      "tags": [
+        "recovery",
+        "red_flags",
+        "return_to_play"
+      ],
+      "citation": "Inge E P M van Haren et al. Annals of Physical and Rehabilitation Medicine. 2025. DOI: 10.1016/j.rehab.2024.101921"
+    }
+  },
+  {
+    "id": "study-042",
+    "type": "evidence_chunk",
+    "text": "Title: Return to Sport After Pediatric Anterior Cruciate Ligament Reconstruction: A Systematic Review of the Criteria. Summary: Youth ACL return-to-sport criteria are especially variable and require caution. Young athletes should not receive adult-style aggressive automation.. Tags: recovery, red_flags, return_to_play. Sports: speed-power.",
+    "metadata": {
+      "title": "Return to Sport After Pediatric Anterior Cruciate Ligament Reconstruction: A Systematic Review of the Criteria",
+      "evidence_tier": "high",
+      "tags": [
+        "recovery",
+        "red_flags",
+        "return_to_play"
+      ],
+      "citation": "Justin-Pierre Lorange et al. American Journal of Sports Medicine. 2024. DOI: 10.1177/03635465231187039"
+    }
+  },
+  {
+    "id": "study-043",
+    "type": "evidence_chunk",
+    "text": "Title: Human ankle plantar flexor muscle-tendon mechanics and energetics during maximum acceleration sprinting. Summary: Ankle plantar flexor tendon elastic strain energy remains vital across maximal sprint acceleration foot contacts. The ankle-foot complex is a key energy-transfer site rather than a minor secondary contributor.. Tags: acceleration, ankle_appui_elasticity, elastic_reactivity, speed, tendon_loading. Sports: speed-power, sprint.",
+    "metadata": {
+      "title": "Human ankle plantar flexor muscle-tendon mechanics and energetics during maximum acceleration sprinting",
+      "evidence_tier": "high",
+      "tags": [
+        "acceleration",
+        "ankle_appui_elasticity",
+        "elastic_reactivity",
+        "speed",
+        "tendon_loading"
+      ],
+      "citation": "Adrian Lai et al. Journal of the Royal Society Interface. 2016. DOI: 10.1098/rsif.2016.0391"
+    }
+  },
+  {
+    "id": "study-044",
+    "type": "evidence_chunk",
+    "text": "Title: Ankle and Plantar Flexor Muscle-Tendon Unit Function in Sprinters: A Narrative Review. Summary: The ankle joint and plantar-flexor muscle-tendon unit are especially important across start, acceleration, and maximal velocity sprint phases. Elite sprinters appear to express superior plantar-flexor rate of force development and ankle-mediated power transfer.. Tags: acceleration, ankle_appui_elasticity, elastic_reactivity, max_velocity, speed, tendon_loading. Sports: speed-power, sprint.",
+    "metadata": {
+      "title": "Ankle and Plantar Flexor Muscle-Tendon Unit Function in Sprinters: A Narrative Review",
+      "evidence_tier": "high",
+      "tags": [
+        "acceleration",
+        "ankle_appui_elasticity",
+        "elastic_reactivity",
+        "max_velocity",
+        "speed",
+        "tendon_loading"
+      ],
+      "citation": "Evan D Crotty et al. Sports Medicine. 2024. DOI: 10.1007/s40279-023-01967-1"
+    }
+  },
+  {
+    "id": "study-045",
+    "type": "evidence_chunk",
+    "text": "Title: Traditional and ankle-specific vertical jumps as strength-power indicators for maximal sprint acceleration. Summary: Ankle-specific vertical jump modalities help explain maximal sprint acceleration ability. Ankle-focused rebound output can add information beyond traditional jumps.. Tags: acceleration, ankle_appui_elasticity, plyometrics, speed. Sports: jump, speed-power, sprint.",
+    "metadata": {
+      "title": "Traditional and ankle-specific vertical jumps as strength-power indicators for maximal sprint acceleration",
+      "evidence_tier": "moderate",
+      "tags": [
+        "acceleration",
+        "ankle_appui_elasticity",
+        "plyometrics",
+        "speed"
+      ],
+      "citation": "R Nagahara et al. Journal of Sports Medicine and Physical Fitness. 2014. DOI: PMID:24739258"
+    }
+  },
+  {
+    "id": "study-046",
+    "type": "evidence_chunk",
+    "text": "Title: Potential relationship between passive plantar flexor stiffness and sprint performance in sprinters. Summary: Passive plantar-flexor stiffness may relate to sprint performance in sprinters. This supports ankle stiffness as a meaningful but non-deterministic performance factor.. Tags: acceleration, ankle_appui_elasticity, elastic_reactivity, max_velocity, speed, tendon_loading. Sports: speed-power, sprint.",
+    "metadata": {
+      "title": "Potential relationship between passive plantar flexor stiffness and sprint performance in sprinters",
+      "evidence_tier": "moderate",
+      "tags": [
+        "acceleration",
+        "ankle_appui_elasticity",
+        "elastic_reactivity",
+        "max_velocity",
+        "speed",
+        "tendon_loading"
+      ],
+      "citation": "Chieri Takahashi et al. Physical Therapy in Sport. 2018. DOI: 10.1016/j.ptsp.2018.04.018"
+    }
+  },
+  {
+    "id": "study-047",
+    "type": "evidence_chunk",
+    "text": "Title: Knee and ankle joint stiffness in sprint running. Summary: Ankle and knee stiffness are regulated during sprint running and contribute to how force is managed across contact. Stiffness is not simply 'more is better'; regulation quality matters.. Tags: acceleration, ankle_appui_elasticity, max_velocity, speed. Sports: speed-power, sprint.",
+    "metadata": {
+      "title": "Knee and ankle joint stiffness in sprint running",
+      "evidence_tier": "moderate",
+      "tags": [
+        "acceleration",
+        "ankle_appui_elasticity",
+        "max_velocity",
+        "speed"
+      ],
+      "citation": "Sami Kuitunen et al. Medicine & Science in Sports & Exercise. 2002. DOI: 10.1097/00005768-200201000-00025"
+    }
+  },
+  {
+    "id": "study-048",
+    "type": "evidence_chunk",
+    "text": "Title: Relationship between Step-by-Step Foot Kinematics and Sprint Performance. Summary: Step-by-step foot kinematics relate to sprint performance and help explain contact strategy. Foot position and contact behavior are relevant to how athletes create or lose speed.. Tags: acceleration, ankle_appui_elasticity, max_velocity, speed. Sports: speed-power, sprint.",
+    "metadata": {
+      "title": "Relationship between Step-by-Step Foot Kinematics and Sprint Performance",
+      "evidence_tier": "moderate",
+      "tags": [
+        "acceleration",
+        "ankle_appui_elasticity",
+        "max_velocity",
+        "speed"
+      ],
+      "citation": "Isabel Martín-Fuentes et al. International Journal of Environmental Research and Public Health. 2022. DOI: 10.3390/ijerph19116786"
+    }
+  },
+  {
+    "id": "study-049",
+    "type": "evidence_chunk",
+    "text": "Title: Relationship between ankle dorsiflexion range of motion and sprinting and jumping ability in young athletes. Summary: Lower weight-bearing lunge scores were associated with poorer sprinting and jumping performance in young athletes. A more detailed mobility classification may improve performance interpretation and risk awareness.. Tags: acceleration, ankle_appui_elasticity, ankle_mobility, max_velocity, speed. Sports: speed-power.",
+    "metadata": {
+      "title": "Relationship between ankle dorsiflexion range of motion and sprinting and jumping ability in young athletes",
+      "evidence_tier": "high",
+      "tags": [
+        "acceleration",
+        "ankle_appui_elasticity",
+        "ankle_mobility",
+        "max_velocity",
+        "speed"
+      ],
+      "citation": "Julia Cerrillo-Sanchis et al. Journal of Bodywork and Movement Therapies. 2024. DOI: 10.1016/j.jbmt.2024.02.013"
+    }
+  },
+  {
+    "id": "study-050",
+    "type": "evidence_chunk",
+    "text": "Title: Interventions for increasing ankle joint dorsiflexion: a systematic review and meta-analysis. Summary: Several interventions can improve ankle dorsiflexion, although effects depend on method and context. Mobility is modifiable, which supports targeted intervention when restricted ankle range is limiting sport movement.. Tags: acceleration, ankle_mobility, plyometrics, recovery, speed. Sports: speed-power.",
+    "metadata": {
+      "title": "Interventions for increasing ankle joint dorsiflexion: a systematic review and meta-analysis",
+      "evidence_tier": "high",
+      "tags": [
+        "acceleration",
+        "ankle_mobility",
+        "plyometrics",
+        "recovery",
+        "speed"
+      ],
+      "citation": "Rebekah Young et al. Journal of Foot and Ankle Research. 2013. DOI: 10.1186/1757-1146-6-46"
+    }
+  },
+  {
+    "id": "study-051",
+    "type": "evidence_chunk",
+    "text": "Title: Evidence for Intrinsic Foot Muscle Training in Improving Foot Function: A Systematic Review and Meta-Analysis. Summary: Intrinsic foot muscle training can improve foot function outcomes. This supports including low-level foot-core work inside appui and tissue-capacity programming.. Tags: ankle_appui_elasticity, ankle_mobility, recovery. Sports: speed-power.",
+    "metadata": {
+      "title": "Evidence for Intrinsic Foot Muscle Training in Improving Foot Function: A Systematic Review and Meta-Analysis",
+      "evidence_tier": "high",
+      "tags": [
+        "ankle_appui_elasticity",
+        "ankle_mobility",
+        "recovery"
+      ],
+      "citation": "Abbis H Jaffri et al. Journal of Athletic Training. 2023. DOI: 10.4085/1062-6050-0162.22"
+    }
+  }
+]
