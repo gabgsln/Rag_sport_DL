@@ -27,10 +27,11 @@ python3 demo_interactive.py   # interactive Q&A in the terminal
 rag_submission/
 ├── rag_pipeline.py         # main pipeline: data → embeddings → ChromaDB → LLM → eval
 ├── demo_interactive.py     # terminal Q&A interface
+├── rag_notebook.ipynb      # step-by-step notebook walkthrough
 ├── requirements.txt
 ├── data/
 │   └── sports_science_corpus.json   # 114 documents
-└── chroma_db/              # vector store, auto-created on first run
+└── chroma_db/              # vector store, auto-created on first run (not tracked)
 ```
 
 ---
@@ -49,7 +50,7 @@ I compared two models:
 | `paraphrase-multilingual-MiniLM-L12-v2` | 384 | tested as alternative, supports French too |
 
 ### Vector database
-ChromaDB with cosine similarity and HNSW index. Persistent storage so it doesn't rebuild every time (unless you want it to).
+ChromaDB with cosine similarity and HNSW index. The collection is rebuilt on each run to stay in sync with the corpus.
 
 ### LLMs
 Three options depending on what's available:
@@ -63,7 +64,7 @@ Three options depending on what's available:
 ### Prompt templates
 I tested three approaches and compared the outputs:
 - **XML-style** — the format from the course examples
-- **Structured** — adds an explicit expert role and asks for a 3-5 sentence answer
+- **Structured** — frames the context as research excerpts, more neutral
 - **Minimal** — just context + question, no framing
 
 The structured template gave noticeably better answers, especially for open-ended questions.
